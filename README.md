@@ -101,32 +101,32 @@ Proactive Customer Retention
 
 ```text
 Customer Data
-      │
-      ▼
+       │
+       ▼
 Data Cleaning
-      │
-      ▼
+       │
+       ▼
 Exploratory Data Analysis
-      │
-      ▼
+       │
+       ▼
 Feature Engineering
-      │
-      ▼
+       │
+       ▼
 Data Preprocessing
-      │
-      ▼
+       │
+       ▼
 Class Balancing (SMOTE)
-      │
-      ▼
+       │
+       ▼
 Machine Learning Models
-      │
-      ▼
+       │
+       ▼
 Model Evaluation
-      │
-      ▼
+       │
+       ▼
 SHAP Explainability
-      │
-      ▼
+       │
+       ▼
 Business Insights & Recommendations
 ```
 
@@ -150,7 +150,7 @@ IBM Telco Customer Churn Dataset
 ### Prediction Target
 
 | Value | Meaning |
-|---------|---------|
+|---------|----------|
 | Yes | Customer Churned |
 | No | Customer Retained |
 
@@ -239,7 +239,7 @@ Applied **SMOTE (Synthetic Minority Oversampling Technique)** to balance churn c
 The following machine learning models were trained and evaluated:
 
 | Model | Purpose |
-|---------|---------|
+|---------|----------|
 | Logistic Regression | Baseline Model |
 | Random Forest | Ensemble Learning |
 | XGBoost | Final Optimized Model |
