@@ -1,0 +1,1001 @@
+customer_id,age,gender,region,plan,tenure_months,monthly_charges,total_charges,logins_last_30d,features_used,support_tickets,nps_score,last_login_days_ago,email_open_rate,contract_type,payment_method,payment_failures,churn_probability,churned
+CUS00001,62,Male,North,Standard,32,52.09,1714.28,5,10,6,,3,0.09,Month-to-month,Credit card,4,0.8495,1
+CUS00002,56,Female,South,Standard,36,30.19,1075.57,21,5,2,2,43,0.1,Two year,Credit card,2,0.4112,0
+CUS00003,44,Non-binary,East,Basic,59,23.04,1305.54,53,11,5,8,24,0.7,Month-to-month,Bank transfer,2,0.4427,0
+CUS00004,28,Female,East,Standard,47,40.66,1892.61,43,11,1,8,81,0.17,Month-to-month,Bank transfer,3,0.493,0
+CUS00005,46,Female,Central,Basic,42,27.64,994.2,20,7,4,0,27,0.91,One year,Bank transfer,3,0.1351,0
+CUS00006,51,Male,East,Basic,32,26.17,783.58,37,7,5,2,17,0.51,Month-to-month,Credit card,0,0.6569,1
+CUS00007,31,Non-binary,South,Standard,9,47.88,387.95,35,14,0,9,14,0.68,One year,PayPal,0,0.1822,0
+CUS00008,22,Non-binary,East,Premium,23,97.52,2284.08,32,10,3,1,47,0.76,Month-to-month,PayPal,3,0.8609,1
+CUS00009,23,Male,East,Standard,31,56.34,1514.48,31,14,1,7,16,0.13,Two year,Bank transfer,2,0.1085,0
+CUS00010,35,Non-binary,South,Standard,52,49.5,2454.35,7,4,3,0,43,0.02,Month-to-month,Bank transfer,0,0.6574,1
+CUS00011,26,Non-binary,North,Basic,9,28.58,230.88,42,8,3,7,16,0.72,Two year,Bank transfer,3,0.3288,0
+CUS00012,28,Non-binary,West,Standard,55,55.92,3016.21,41,2,0,5,43,0.8,Month-to-month,Bank transfer,1,0.4048,0
+CUS00013,34,Non-binary,West,Basic,55,17.75,844.53,51,14,8,0,6,0.65,Month-to-month,Credit card,1,0.2305,0
+CUS00014,35,Female,North,Basic,49,15.03,741.64,18,7,8,9,62,0.15,One year,Bank transfer,0,0.3056,0
+CUS00015,59,Non-binary,Central,Basic,41,15.86,663.62,10,1,8,0,23,0.07,Month-to-month,Bank transfer,3,0.8812,1
+CUS00016,37,Non-binary,Central,Basic,11,21.29,242.84,13,11,5,2,33,0.4,One year,Check,2,0.6236,1
+CUS00017,26,Male,West,Premium,13,75.91,1023.0,56,2,3,4,36,0.16,One year,Credit card,4,0.3107,0
+CUS00018,30,Female,North,Basic,71,17.33,1130.24,43,11,4,7,62,0.25,Month-to-month,Credit card,3,0.4524,0
+CUS00019,39,Male,North,Standard,17,37.86,618.09,27,9,0,0,9,0.95,Month-to-month,Credit card,2,0.5821,1
+CUS00020,30,Male,East,Standard,6,36.3,189.61,49,9,6,8,19,0.93,Month-to-month,Bank transfer,1,0.566,1
+CUS00021,48,Male,South,Standard,53,55.92,2677.35,50,12,1,5,4,0.86,Month-to-month,Bank transfer,3,0.2003,0
+CUS00022,36,Male,North,Basic,52,19.92,938.29,41,9,6,9,68,0.33,Month-to-month,Credit card,2,0.6523,1
+CUS00023,33,Non-binary,East,Basic,14,23.95,314.27,32,2,6,8,24,0.25,Two year,Credit card,4,0.6068,1
+CUS00024,64,Male,East,Standard,9,57.62,509.6,7,12,4,7,39,0.67,One year,Check,2,0.5355,1
+CUS00025,57,Male,South,Standard,49,57.08,2545.73,35,14,0,3,36,0.21,One year,Check,3,0.1098,0
+CUS00026,52,Non-binary,South,Basic,37,22.73,852.52,48,4,4,2,25,0.15,Month-to-month,Bank transfer,3,0.5468,1
+CUS00027,61,Male,West,Standard,25,41.52,912.94,44,1,1,5,28,0.18,Two year,Credit card,4,0.2964,0
+CUS00028,51,Male,West,Premium,72,113.49,7946.82,46,15,8,5,70,0.45,Month-to-month,Check,3,0.7542,1
+CUS00029,38,Male,East,Premium,63,64.65,3694.76,17,6,5,7,10,0.14,Month-to-month,Check,1,0.424,0
+CUS00030,48,Female,Central,Standard,54,54.99,2981.22,60,12,0,8,48,0.48,One year,PayPal,3,0.065,0
+CUS00031,48,Non-binary,Central,Premium,29,89.14,2398.34,42,11,6,10,21,0.84,Month-to-month,Credit card,3,0.5212,1
+CUS00032,27,Non-binary,West,Basic,60,17.73,1000.97,21,13,6,3,53,0.25,Month-to-month,Check,0,0.2978,0
+CUS00033,56,Male,East,Basic,9,26.72,250.08,12,14,0,8,19,0.24,Two year,Credit card,4,0.5803,1
+CUS00034,38,Female,South,Premium,15,78.66,1139.47,59,5,6,5,25,0.08,Month-to-month,Credit card,2,0.6018,1
+CUS00035,65,Non-binary,North,Premium,6,82.23,469.3,21,1,6,6,13,0.43,One year,Check,1,0.391,0
+CUS00036,63,Female,Central,Premium,62,95.55,5417.36,15,14,1,3,57,0.24,Two year,Check,2,0.2956,0
+CUS00037,23,Female,East,Basic,63,18.18,1175.19,44,15,4,7,1,0.52,Month-to-month,Credit card,1,0.1319,0
+CUS00038,37,Non-binary,West,Standard,58,32.79,1879.68,19,11,5,6,70,0.53,Two year,PayPal,2,0.1117,0
+CUS00039,51,Female,East,Standard,30,35.78,1027.43,48,12,2,2,27,0.74,One year,PayPal,0,0.1028,0
+CUS00040,45,Male,East,Basic,69,16.9,1059.32,60,3,7,0,1,0.57,Two year,Check,3,0.0291,0
+CUS00041,43,Male,North,Standard,62,31.96,1912.97,43,1,2,1,72,0.95,Month-to-month,Bank transfer,0,0.2601,0
+CUS00042,60,Non-binary,South,Premium,49,111.61,5731.43,19,10,0,8,12,0.95,Month-to-month,Bank transfer,2,0.6518,1
+CUS00043,64,Male,South,Basic,23,23.28,528.95,30,5,0,2,36,0.71,Two year,Credit card,1,0.4298,0
+CUS00044,62,Non-binary,South,Standard,15,49.43,752.81,4,1,2,3,76,0.75,One year,Check,0,0.5753,1
+CUS00045,51,Non-binary,East,Standard,35,44.81,1345.6,27,12,5,8,32,0.03,Month-to-month,Credit card,2,0.4263,0
+CUS00046,33,Female,Central,Standard,36,47.56,1623.72,5,8,5,5,42,0.32,Month-to-month,Bank transfer,2,0.7408,1
+CUS00047,48,Non-binary,West,Standard,52,46.5,2207.4,20,2,6,7,0,0.66,Two year,Check,0,0.1964,0
+CUS00048,53,Non-binary,West,Basic,27,19.01,526.7,31,2,0,9,77,0.8,Month-to-month,PayPal,4,0.8639,1
+CUS00049,22,Non-binary,West,Basic,29,29.88,756.9,53,3,7,10,37,0.51,One year,Check,3,0.3227,0
+CUS00050,57,Male,West,Basic,66,26.19,1736.38,54,7,5,7,34,0.82,One year,PayPal,4,0.0736,0
+CUS00051,59,Non-binary,West,Basic,58,23.08,1283.34,29,15,5,2,89,0.24,Two year,Bank transfer,3,0.318,0
+CUS00052,46,Female,South,Standard,5,58.96,256.5,54,8,1,7,58,0.02,Month-to-month,Check,1,0.7691,1
+CUS00053,26,Female,East,Standard,51,55.55,2895.0,24,6,7,7,4,0.62,Month-to-month,PayPal,1,0.5548,1
+CUS00054,28,Non-binary,North,Standard,22,57.1,1267.79,18,6,5,5,18,0.24,Two year,Bank transfer,1,0.2971,0
+CUS00055,33,Male,Central,Standard,31,47.49,1439.18,29,5,0,6,36,0.68,Month-to-month,Credit card,3,0.9093,1
+CUS00056,41,Non-binary,West,Standard,59,35.98,2009.55,15,7,5,8,37,0.99,One year,Credit card,3,0.1382,0
+CUS00057,39,Male,Central,Basic,64,27.49,1576.43,51,6,3,9,24,0.62,Month-to-month,Credit card,0,0.1772,0
+CUS00058,59,Female,South,Basic,38,19.9,761.72,56,6,8,7,34,0.83,One year,Check,2,0.1886,0
+CUS00059,43,Male,West,Basic,19,26.31,492.33,25,14,8,4,11,0.79,Month-to-month,PayPal,4,0.7987,1
+CUS00060,65,Female,Central,Standard,48,37.01,1824.17,35,6,3,9,8,0.64,Two year,PayPal,3,0.1731,0
+CUS00061,29,Male,North,Basic,39,29.94,1118.05,24,8,5,9,89,0.95,Two year,Bank transfer,3,0.2924,0
+CUS00062,61,Female,East,Basic,48,18.26,808.59,43,6,8,9,45,0.06,One year,Bank transfer,0,0.0533,0
+CUS00063,51,Male,South,Premium,3,119.33,360.64,13,2,8,2,75,0.22,Month-to-month,PayPal,1,0.9799,1
+CUS00064,39,Male,South,Premium,33,111.99,3238.74,22,13,3,8,41,0.02,One year,Credit card,1,0.2624,0
+CUS00065,48,Non-binary,North,Basic,61,21.72,1245.96,14,10,0,10,84,0.52,Two year,Credit card,0,0.3304,0
+CUS00066,49,Non-binary,North,Standard,57,32.42,1595.02,17,10,8,10,41,0.38,One year,Check,4,0.2227,0
+CUS00067,60,Female,North,Basic,71,25.81,1641.38,21,14,7,5,53,0.73,One year,Check,2,0.0928,0
+CUS00068,31,Non-binary,West,Basic,12,27.48,329.02,51,3,8,,75,0.96,One year,Credit card,3,0.3572,0
+CUS00069,44,Non-binary,West,Basic,37,24.01,792.91,42,8,3,0,44,0.85,One year,Credit card,2,0.0801,0
+CUS00070,57,Non-binary,Central,Premium,4,101.61,347.83,17,12,4,4,44,0.01,Month-to-month,Check,0,0.8449,1
+CUS00071,31,Non-binary,North,Basic,68,18.23,1145.44,46,6,1,,19,0.16,Month-to-month,Credit card,2,0.1397,0
+CUS00072,60,Female,West,Standard,28,33.41,848.15,43,10,7,7,85,0.31,Month-to-month,Check,4,0.7599,1
+CUS00073,25,Male,South,Standard,28,52.92,1295.05,31,12,6,1,16,0.38,Month-to-month,PayPal,0,0.4089,0
+CUS00074,49,Male,West,Basic,41,23.64,904.82,7,7,0,4,21,0.8,Two year,PayPal,0,0.3076,0
+CUS00075,49,Male,South,Standard,52,41.87,1998.49,21,13,2,0,65,0.63,Month-to-month,PayPal,2,0.5241,1
+CUS00076,31,Male,North,Basic,33,17.96,581.48,11,13,7,6,72,0.76,Two year,PayPal,2,0.1937,0
+CUS00077,31,Female,North,Standard,57,53.89,2827.18,4,5,7,6,4,0.06,One year,Credit card,0,0.1641,0
+CUS00078,51,Non-binary,Central,Basic,58,28.64,1612.95,32,3,0,6,13,0.81,One year,Credit card,4,0.1052,0
+CUS00079,63,Male,North,Basic,57,29.86,1570.59,58,5,6,5,43,0.68,Month-to-month,PayPal,0,0.2245,0
+CUS00080,46,Female,East,Premium,20,68.49,1260.17,41,12,6,1,76,0.71,Month-to-month,PayPal,4,0.8582,1
+CUS00081,46,Non-binary,East,Basic,68,16.4,951.99,19,3,3,4,62,0.19,Month-to-month,Bank transfer,0,0.3913,0
+CUS00082,54,Non-binary,Central,Basic,44,28.15,1091.02,11,14,2,10,56,0.04,One year,Bank transfer,3,0.4869,0
+CUS00083,61,Female,West,Basic,69,18.59,1322.21,12,6,7,6,36,0.78,Two year,Bank transfer,1,0.1569,0
+CUS00084,38,Male,West,Standard,71,51.34,3189.26,5,13,2,3,57,0.91,Month-to-month,Check,0,0.4226,0
+CUS00085,36,Female,East,Basic,54,15.8,894.93,23,4,0,4,12,0.84,One year,Bank transfer,1,0.2612,0
+CUS00086,52,Non-binary,South,Standard,58,57.18,2962.02,9,9,8,5,14,0.78,Month-to-month,PayPal,0,0.6479,1
+CUS00087,25,Male,West,Premium,59,89.99,5082.22,40,9,3,10,18,0.29,Month-to-month,PayPal,1,0.3184,0
+CUS00088,64,Male,Central,Standard,9,46.32,396.67,1,7,7,,81,0.39,One year,PayPal,0,0.6744,1
+CUS00089,44,Male,East,Basic,14,26.57,319.48,34,6,2,9,59,0.98,Two year,Bank transfer,1,0.5522,1
+CUS00090,51,Male,East,Basic,6,26.87,147.04,25,14,8,6,32,0.04,Month-to-month,PayPal,2,0.8431,1
+CUS00091,25,Non-binary,East,Standard,16,43.11,646.96,24,6,2,6,88,0.5,One year,Credit card,3,0.7046,1
+CUS00092,33,Non-binary,East,Standard,14,49.83,677.06,27,3,7,4,57,0.04,One year,Check,2,0.6433,1
+CUS00093,62,Male,North,Standard,47,52.5,2112.74,54,10,7,,16,0.07,One year,PayPal,3,0.1226,0
+CUS00094,31,Non-binary,West,Standard,48,32.31,1432.07,20,11,4,2,14,0.03,Month-to-month,Check,4,0.529,1
+CUS00095,46,Non-binary,North,Standard,34,36.44,1225.08,31,4,1,1,9,0.45,Two year,Credit card,2,0.1325,0
+CUS00096,57,Non-binary,East,Standard,21,57.82,1224.83,32,4,1,2,17,0.24,Two year,Credit card,2,0.2129,0
+CUS00097,57,Non-binary,East,Standard,71,56.53,3731.2,45,12,7,7,52,0.77,Month-to-month,Bank transfer,2,0.2706,0
+CUS00098,65,Non-binary,East,Basic,71,24.6,1635.73,58,14,0,0,66,0.15,Month-to-month,Bank transfer,2,0.1146,0
+CUS00099,36,Female,Central,Standard,11,49.05,472.12,19,10,8,0,64,0.64,Month-to-month,Bank transfer,4,0.9017,1
+CUS00100,58,Male,North,Basic,6,29.23,156.47,36,7,0,6,80,0.55,One year,Check,1,0.2798,0
+CUS00101,65,Female,East,Standard,10,34.74,327.56,21,10,2,4,40,0.73,One year,Check,1,0.3624,0
+CUS00102,28,Female,South,Standard,16,37.44,543.95,24,14,6,2,20,0.81,One year,Bank transfer,1,0.1596,0
+CUS00103,53,Non-binary,West,Standard,40,32.7,1231.41,15,4,5,,6,0.28,Two year,PayPal,4,0.3548,0
+CUS00104,30,Female,East,Standard,47,31.53,1367.07,18,2,6,7,57,0.76,One year,Credit card,1,0.2795,0
+CUS00105,28,Female,East,Standard,72,52.65,3608.18,32,1,0,,17,0.71,Two year,Check,1,0.059,0
+CUS00106,42,Non-binary,East,Basic,51,29.86,1396.88,53,9,8,6,90,0.56,Two year,Credit card,2,0.1166,0
+CUS00107,43,Non-binary,North,Standard,40,51.76,1770.87,30,5,3,10,6,0.58,Month-to-month,Check,1,0.5932,1
+CUS00108,58,Non-binary,North,Basic,3,21.62,57.78,32,13,7,10,7,0.71,Month-to-month,PayPal,3,0.6676,1
+CUS00109,55,Female,East,Basic,59,28.68,1699.56,46,11,4,8,61,0.19,Month-to-month,PayPal,4,0.3512,0
+CUS00110,41,Female,South,Standard,41,46.81,1908.33,18,2,8,5,50,0.82,Month-to-month,PayPal,0,0.9023,1
+CUS00111,40,Non-binary,North,Standard,57,52.42,3034.52,17,15,8,10,34,0.14,Month-to-month,Bank transfer,0,0.4113,0
+CUS00112,62,Male,North,Basic,53,19.95,927.82,35,15,2,5,83,0.94,Two year,Check,1,0.0648,0
+CUS00113,40,Female,East,Basic,12,24.78,303.33,2,15,2,5,22,0.93,Month-to-month,Check,3,0.8698,1
+CUS00114,40,Male,North,Standard,14,40.05,548.51,33,8,2,7,59,0.27,Month-to-month,PayPal,1,0.8553,1
+CUS00115,51,Non-binary,East,Basic,2,26.05,52.18,11,10,6,5,65,0.33,Two year,Credit card,1,0.7383,1
+CUS00116,37,Male,East,Standard,31,38.01,1138.83,36,1,4,9,46,0.69,Month-to-month,Credit card,3,0.7119,1
+CUS00117,41,Male,West,Premium,40,116.44,4301.33,14,4,2,6,19,0.45,One year,Check,4,0.7497,1
+CUS00118,64,Male,South,Premium,11,81.71,928.87,7,1,8,7,25,0.57,Month-to-month,Bank transfer,2,0.8981,1
+CUS00119,55,Female,North,Basic,63,16.36,969.55,32,7,7,8,7,0.56,One year,Credit card,3,0.0933,0
+CUS00120,35,Non-binary,North,Basic,55,20.17,1150.3,4,15,7,,36,0.41,Month-to-month,Check,2,0.5896,1
+CUS00121,46,Female,West,Standard,11,49.85,537.77,22,2,2,7,50,0.53,Month-to-month,Credit card,0,0.9037,1
+CUS00122,56,Female,Central,Standard,30,40.38,1256.81,46,13,1,,84,0.42,Month-to-month,Bank transfer,1,0.5081,1
+CUS00123,26,Male,Central,Basic,58,23.97,1387.63,25,8,3,7,27,0.75,Month-to-month,Bank transfer,4,0.6093,1
+CUS00124,58,Female,Central,Premium,42,119.14,4774.95,26,5,4,,71,0.95,Month-to-month,Check,4,0.9045,1
+CUS00125,53,Male,East,Standard,68,42.49,2673.46,48,9,7,2,28,0.3,Month-to-month,Check,0,0.0737,0
+CUS00126,57,Non-binary,South,Standard,32,39.91,1200.44,23,2,8,10,24,0.05,Two year,Credit card,0,0.199,0
+CUS00127,34,Non-binary,Central,Basic,62,18.13,1159.8,13,15,3,10,15,0.75,Two year,Bank transfer,4,0.108,0
+CUS00128,37,Non-binary,East,Standard,49,49.46,2234.33,56,8,7,0,60,0.76,One year,Bank transfer,2,0.0861,0
+CUS00129,42,Female,North,Premium,29,93.2,2613.08,46,7,4,1,25,0.33,Two year,Bank transfer,3,0.1177,0
+CUS00130,43,Female,West,Standard,59,53.85,3158.29,31,3,8,9,7,0.52,Month-to-month,Credit card,0,0.364,0
+CUS00131,48,Male,South,Basic,20,15.14,294.8,42,15,7,9,62,0.02,Two year,Credit card,0,0.1191,0
+CUS00132,40,Male,Central,Standard,23,32.89,672.04,33,5,5,3,50,0.08,Two year,Check,4,0.3668,0
+CUS00133,37,Non-binary,South,Standard,11,55.75,532.73,24,7,8,6,7,0.64,Month-to-month,Credit card,3,0.8967,1
+CUS00134,43,Non-binary,North,Premium,6,101.54,586.92,17,1,1,9,35,0.9,Month-to-month,Bank transfer,2,0.8896,1
+CUS00135,23,Male,Central,Basic,51,28.93,1421.34,54,7,8,4,49,0.76,Month-to-month,Credit card,4,0.4939,0
+CUS00136,28,Female,South,Basic,44,24.08,1105.91,20,1,4,6,62,0.23,Two year,Check,1,0.2281,0
+CUS00137,65,Non-binary,West,Basic,38,26.97,902.74,45,13,2,10,49,0.32,Month-to-month,Credit card,0,0.4943,0
+CUS00138,39,Male,South,Basic,24,21.46,448.42,5,6,8,0,76,0.6,One year,Check,0,0.4872,0
+CUS00139,40,Female,West,Basic,72,28.58,1818.89,24,3,2,3,38,0.27,Month-to-month,Credit card,1,0.3041,0
+CUS00140,52,Male,East,Standard,32,44.87,1351.95,8,5,0,5,42,0.84,Two year,PayPal,3,0.5065,1
+CUS00141,43,Female,Central,Basic,39,19.81,705.25,25,6,4,10,88,0.63,Month-to-month,PayPal,3,0.7311,1
+CUS00142,45,Male,Central,Basic,70,17.7,1233.35,60,12,3,6,37,0.83,Month-to-month,Check,3,0.3007,0
+CUS00143,30,Non-binary,East,Basic,33,24.88,710.03,38,8,6,7,64,0.92,Two year,Credit card,2,0.2098,0
+CUS00144,60,Non-binary,North,Basic,32,24.86,683.24,41,11,6,4,55,0.11,Month-to-month,PayPal,1,0.3373,0
+CUS00145,54,Non-binary,Central,Premium,29,106.34,2984.31,32,3,5,,61,0.1,Two year,Credit card,0,0.5872,1
+CUS00146,44,Female,East,Standard,27,40.45,1086.03,28,6,1,3,5,0.81,Month-to-month,Credit card,2,0.4361,0
+CUS00147,63,Male,South,Basic,67,17.62,1229.76,14,13,6,9,23,0.19,Two year,Check,0,0.0731,0
+CUS00148,50,Non-binary,West,Standard,1,36.17,36.59,4,10,1,7,23,0.37,Month-to-month,Check,0,0.625,1
+CUS00149,38,Non-binary,West,Premium,41,95.22,3590.08,54,8,2,9,90,0.8,Month-to-month,Bank transfer,2,0.721,1
+CUS00150,33,Female,South,Premium,50,83.02,3682.56,40,9,2,7,21,0.49,Month-to-month,Bank transfer,2,0.5221,1
+CUS00151,50,Non-binary,North,Standard,2,35.85,69.0,41,8,6,9,62,0.42,Two year,Check,1,0.4123,0
+CUS00152,36,Female,North,Standard,29,35.05,1014.93,49,8,8,7,14,0.57,One year,PayPal,4,0.1952,0
+CUS00153,24,Non-binary,West,Premium,28,109.8,3075.23,19,14,0,6,33,0.35,Month-to-month,Check,0,0.764,1
+CUS00154,59,Non-binary,East,Premium,55,72.4,3549.51,3,10,5,7,35,0.6,Month-to-month,PayPal,2,0.5975,1
+CUS00155,40,Non-binary,East,Premium,13,84.7,948.99,17,14,2,10,16,0.25,One year,Bank transfer,3,0.2951,0
+CUS00156,39,Non-binary,West,Standard,58,53.84,2905.91,47,5,5,6,62,0.33,Month-to-month,Credit card,3,0.5474,1
+CUS00157,62,Non-binary,East,Basic,69,20.97,1373.05,20,14,4,4,70,0.58,Two year,PayPal,0,0.1655,0
+CUS00158,51,Male,North,Basic,57,21.85,1306.65,58,3,4,1,35,0.09,One year,PayPal,0,0.0658,0
+CUS00159,45,Non-binary,South,Basic,51,24.38,1163.61,5,12,1,,27,0.48,Month-to-month,Bank transfer,4,0.643,1
+CUS00160,43,Male,West,Basic,62,16.06,866.76,20,6,4,1,48,0.77,Month-to-month,Bank transfer,0,0.4108,0
+CUS00161,55,Non-binary,North,Premium,22,97.68,1891.68,26,10,7,2,11,0.9,Month-to-month,Credit card,4,0.8383,1
+CUS00162,49,Female,South,Basic,36,24.67,883.0,18,13,0,9,38,0.21,Month-to-month,Check,2,0.4854,0
+CUS00163,63,Male,South,Standard,50,44.99,2149.75,0,6,5,1,49,0.86,Two year,PayPal,4,0.3877,0
+CUS00164,26,Male,Central,Basic,2,18.93,38.16,32,5,8,5,54,0.7,Month-to-month,Bank transfer,2,0.73,1
+CUS00165,27,Female,North,Premium,27,79.61,2079.16,48,14,1,3,89,0.44,Month-to-month,Credit card,1,0.7067,1
+CUS00166,51,Non-binary,Central,Basic,40,24.99,852.19,8,12,0,1,63,0.95,One year,Bank transfer,2,0.3694,0
+CUS00167,30,Non-binary,East,Basic,4,20.03,72.32,36,11,1,6,58,0.51,Month-to-month,Check,4,0.82,1
+CUS00168,28,Non-binary,North,Basic,66,15.04,852.87,23,7,2,1,4,0.55,Two year,Bank transfer,2,0.0957,0
+CUS00169,37,Female,East,Standard,10,33.58,288.97,14,13,8,,51,0.07,Two year,PayPal,2,0.4098,0
+CUS00170,22,Female,South,Standard,39,37.28,1518.43,49,13,3,10,69,0.76,Month-to-month,Bank transfer,0,0.5067,1
+CUS00171,48,Male,South,Premium,45,60.58,2499.84,48,11,6,10,39,0.1,Month-to-month,Check,3,0.7217,1
+CUS00172,31,Non-binary,East,Basic,6,28.82,171.22,23,8,1,8,12,0.51,Two year,Credit card,4,0.3876,0
+CUS00173,58,Male,West,Basic,31,19.38,557.88,53,12,5,4,57,0.27,Month-to-month,Bank transfer,1,0.453,0
+CUS00174,31,Male,South,Standard,60,33.62,2025.4,28,5,7,3,15,0.09,One year,Credit card,1,0.0579,0
+CUS00175,42,Male,North,Basic,46,20.94,976.74,11,1,6,6,71,0.75,Month-to-month,Credit card,3,0.9065,1
+CUS00176,29,Male,North,Basic,17,17.97,316.95,5,10,4,0,2,1.0,Month-to-month,Check,1,0.8264,1
+CUS00177,27,Female,North,Basic,60,15.76,940.76,31,1,6,9,54,0.17,Month-to-month,Bank transfer,2,0.4805,0
+CUS00178,24,Non-binary,Central,Premium,32,112.97,3419.13,5,5,6,1,53,0.2,Month-to-month,Credit card,3,0.9789,1
+CUS00179,44,Female,Central,Standard,45,45.07,1796.87,20,10,3,,35,0.06,Two year,PayPal,4,0.592,1
+CUS00180,28,Male,South,Standard,69,57.52,4164.46,14,10,6,4,22,0.18,One year,PayPal,4,0.217,0
+CUS00181,23,Non-binary,East,Premium,19,119.28,2325.98,31,9,4,1,62,0.04,Month-to-month,Bank transfer,4,0.9331,1
+CUS00182,22,Female,Central,Basic,17,20.11,349.95,3,1,2,8,90,0.92,Month-to-month,PayPal,0,0.9444,1
+CUS00183,45,Non-binary,West,Premium,13,118.55,1535.71,27,13,7,9,40,0.17,One year,Bank transfer,4,0.7297,1
+CUS00184,40,Male,South,Basic,51,27.76,1254.95,20,15,3,9,72,0.1,Two year,Bank transfer,2,0.1379,0
+CUS00185,26,Male,East,Standard,22,58.89,1274.86,46,15,5,6,1,0.27,Month-to-month,Credit card,2,0.5219,1
+CUS00186,22,Male,West,Standard,54,56.54,2826.44,34,7,1,6,73,0.65,Month-to-month,Bank transfer,3,0.6899,1
+CUS00187,26,Male,East,Basic,41,18.92,797.12,10,12,1,7,11,0.34,Two year,Credit card,3,0.2553,0
+CUS00188,49,Male,North,Basic,43,18.08,773.09,46,9,4,9,36,0.3,Month-to-month,Credit card,3,0.4026,0
+CUS00189,58,Non-binary,West,Basic,7,20.41,140.36,38,8,3,0,3,0.21,One year,Credit card,3,0.3311,0
+CUS00190,47,Female,West,Standard,12,41.63,462.74,11,8,0,3,56,0.47,Month-to-month,PayPal,4,0.8514,1
+CUS00191,25,Male,North,Basic,45,27.12,1092.87,3,14,6,7,53,0.97,Two year,Bank transfer,3,0.3254,0
+CUS00192,24,Non-binary,Central,Premium,19,70.37,1399.7,13,13,3,1,5,0.42,Two year,Bank transfer,1,0.4001,0
+CUS00193,60,Female,East,Basic,12,20.82,226.17,29,15,0,10,79,0.59,Two year,Credit card,3,0.4645,0
+CUS00194,59,Male,North,Premium,13,112.81,1504.04,16,7,7,8,77,0.47,Month-to-month,PayPal,3,0.9772,1
+CUS00195,31,Non-binary,Central,Standard,5,56.37,242.35,30,15,4,4,2,0.34,One year,PayPal,2,0.463,0
+CUS00196,65,Male,South,Basic,39,29.61,1043.8,26,10,1,2,56,0.21,Two year,Check,4,0.1567,0
+CUS00197,45,Male,Central,Basic,9,19.67,180.62,56,10,0,1,24,0.88,Month-to-month,Credit card,1,0.4977,0
+CUS00198,45,Non-binary,South,Standard,48,45.15,1895.81,1,4,5,6,76,0.45,Two year,PayPal,2,0.5066,1
+CUS00199,32,Female,North,Standard,4,34.89,145.56,54,4,3,9,26,0.27,Two year,Credit card,0,0.1645,0
+CUS00200,33,Non-binary,North,Basic,33,24.13,789.82,17,7,6,4,58,0.25,Two year,PayPal,4,0.474,0
+CUS00201,61,Female,Central,Basic,1,22.67,20.97,41,10,4,3,87,0.11,Month-to-month,PayPal,2,0.7094,1
+CUS00202,38,Non-binary,East,Basic,20,22.76,464.97,51,10,6,9,40,0.68,Month-to-month,Check,2,0.3768,0
+CUS00203,38,Female,West,Standard,5,59.84,274.86,45,4,8,9,60,0.91,One year,PayPal,1,0.6498,1
+CUS00204,33,Female,North,Standard,17,51.76,908.54,60,11,5,9,11,0.22,Month-to-month,PayPal,3,0.3261,0
+CUS00205,43,Female,East,Premium,38,63.22,2346.82,37,10,1,6,24,0.5,Two year,PayPal,3,0.3036,0
+CUS00206,30,Male,East,Standard,59,55.87,2855.16,21,11,2,4,81,0.06,Two year,PayPal,1,0.2757,0
+CUS00207,32,Non-binary,South,Standard,12,43.01,482.99,30,7,0,,68,0.2,One year,Credit card,2,0.4395,0
+CUS00208,23,Non-binary,North,Basic,29,25.4,682.61,37,5,2,0,5,0.3,One year,Check,4,0.141,0
+CUS00209,60,Non-binary,East,Standard,18,57.04,911.4,60,15,6,,29,0.22,Month-to-month,Bank transfer,0,0.3831,0
+CUS00210,45,Non-binary,North,Standard,33,48.69,1381.17,6,11,0,,88,0.12,Two year,Check,0,0.3708,0
+CUS00211,57,Female,West,Basic,27,25.43,674.48,42,9,4,8,77,0.7,Two year,Credit card,4,0.3252,0
+CUS00212,29,Male,West,Basic,26,26.67,639.05,26,5,2,,70,0.5,Month-to-month,Check,2,0.7423,1
+CUS00213,37,Male,North,Basic,15,27.53,358.45,32,2,1,3,82,0.23,One year,PayPal,3,0.7353,1
+CUS00214,24,Female,East,Standard,55,32.85,1552.32,54,3,2,4,45,0.89,One year,Credit card,2,0.1044,0
+CUS00215,43,Male,North,Standard,52,38.15,2023.74,51,7,2,0,16,0.7,Month-to-month,Bank transfer,0,0.1401,0
+CUS00216,58,Non-binary,West,Basic,49,26.69,1341.8,46,15,2,6,62,0.11,Two year,Check,0,0.0971,0
+CUS00217,26,Female,East,Basic,68,26.51,1884.84,42,14,5,7,66,0.69,Month-to-month,Check,1,0.1554,0
+CUS00218,63,Female,South,Premium,7,90.33,596.81,31,14,2,0,62,0.32,One year,PayPal,0,0.4379,0
+CUS00219,54,Male,Central,Standard,52,32.36,1623.16,5,14,7,6,40,0.12,Two year,Credit card,0,0.1553,0
+CUS00220,57,Male,North,Premium,39,99.28,3644.41,21,6,0,2,58,0.33,Two year,PayPal,3,0.4982,0
+CUS00221,29,Male,South,Basic,44,20.33,858.33,23,12,1,,21,0.49,Two year,Credit card,2,0.109,0
+CUS00222,47,Male,West,Basic,44,16.62,744.07,37,2,7,6,84,0.59,Month-to-month,Check,0,0.5537,1
+CUS00223,55,Non-binary,North,Premium,56,90.5,5241.49,11,12,2,10,16,0.1,One year,Check,3,0.4984,0
+CUS00224,37,Female,West,Standard,38,34.0,1279.08,47,9,4,10,70,0.86,Month-to-month,Bank transfer,1,0.4371,0
+CUS00225,61,Non-binary,East,Standard,17,49.5,800.08,44,11,5,10,14,0.76,Two year,Check,4,0.2374,0
+CUS00226,22,Non-binary,North,Basic,49,17.18,841.85,10,5,4,1,7,0.69,One year,Bank transfer,4,0.4746,0
+CUS00227,24,Female,West,Basic,72,27.97,1807.46,50,13,4,10,85,0.05,Two year,Check,3,0.2357,0
+CUS00228,42,Non-binary,North,Basic,33,18.05,559.08,14,15,5,8,69,0.74,Month-to-month,Bank transfer,2,0.6282,1
+CUS00229,50,Male,North,Basic,23,26.03,542.31,16,3,2,8,32,0.01,Two year,Bank transfer,0,0.4138,0
+CUS00230,25,Non-binary,Central,Standard,63,46.5,2904.71,33,4,2,7,8,0.79,Month-to-month,Check,4,0.5431,1
+CUS00231,56,Female,North,Standard,29,49.9,1315.0,60,13,8,6,71,0.82,Month-to-month,Credit card,2,0.3072,0
+CUS00232,61,Non-binary,South,Basic,42,20.72,784.36,46,5,0,7,47,0.51,Two year,Check,0,0.1367,0
+CUS00233,40,Non-binary,South,Standard,66,32.88,2180.2,34,1,1,2,85,0.63,Month-to-month,Check,0,0.4891,0
+CUS00234,49,Non-binary,North,Basic,4,21.89,75.38,50,5,8,0,73,0.82,One year,Check,3,0.6837,1
+CUS00235,50,Non-binary,West,Standard,41,50.2,2013.51,39,2,0,10,9,0.36,Month-to-month,PayPal,2,0.444,0
+CUS00236,50,Female,West,Basic,61,17.34,1067.63,54,9,4,9,18,0.3,One year,Credit card,4,0.0446,0
+CUS00237,57,Male,North,Basic,1,23.59,20.45,13,12,5,2,52,0.91,Month-to-month,Bank transfer,1,0.8803,1
+CUS00238,34,Male,South,Premium,7,119.66,789.25,35,2,4,9,8,0.25,Month-to-month,Check,2,0.9611,1
+CUS00239,44,Male,South,Basic,37,24.29,844.92,39,11,4,10,74,0.15,One year,PayPal,3,0.2725,0
+CUS00240,36,Non-binary,West,Standard,47,51.99,2303.2,22,13,4,6,70,0.11,Month-to-month,PayPal,1,0.7126,1
+CUS00241,56,Male,East,Basic,10,28.38,287.36,37,7,3,,70,0.26,Two year,Bank transfer,2,0.2507,0
+CUS00242,59,Non-binary,East,Basic,60,22.52,1151.38,15,14,2,7,17,0.45,Month-to-month,Bank transfer,3,0.5888,1
+CUS00243,44,Male,South,Standard,30,41.08,1098.51,58,13,5,5,60,0.92,Month-to-month,Credit card,2,0.7067,1
+CUS00244,62,Female,East,Premium,70,82.71,5601.74,57,14,1,7,32,0.38,Month-to-month,Check,2,0.3314,0
+CUS00245,44,Female,West,Premium,1,69.94,60.53,41,5,3,1,23,0.16,Month-to-month,Bank transfer,3,0.844,1
+CUS00246,52,Non-binary,West,Standard,27,49.42,1199.22,8,10,2,1,80,0.51,Month-to-month,Credit card,1,0.7168,1
+CUS00247,38,Male,Central,Standard,3,51.84,161.66,13,8,7,6,21,0.22,Two year,Bank transfer,4,0.7073,1
+CUS00248,64,Non-binary,East,Basic,44,28.84,1174.6,8,2,0,2,66,0.86,Two year,Bank transfer,4,0.4232,0
+CUS00249,28,Male,West,Premium,5,105.14,456.64,42,3,8,,86,0.65,Two year,PayPal,0,0.6346,1
+CUS00250,52,Female,East,Premium,13,105.95,1421.45,5,5,8,5,32,0.19,Month-to-month,Credit card,4,0.9409,1
+CUS00251,22,Female,South,Standard,53,34.64,1653.66,54,9,6,8,46,0.61,Two year,Bank transfer,3,0.0511,0
+CUS00252,33,Female,Central,Premium,62,80.66,4956.41,47,3,1,10,29,0.45,Month-to-month,Credit card,1,0.3032,0
+CUS00253,54,Female,East,Premium,7,60.32,366.6,9,8,6,0,8,0.26,One year,Credit card,4,0.6737,1
+CUS00254,47,Non-binary,Central,Standard,8,54.61,409.7,12,14,8,3,24,0.03,Month-to-month,Bank transfer,0,0.8413,1
+CUS00255,45,Male,North,Basic,12,29.95,333.89,37,4,8,,90,0.07,Month-to-month,PayPal,4,0.9338,1
+CUS00256,39,Male,Central,Basic,59,28.95,1590.92,6,9,1,7,37,0.34,Month-to-month,PayPal,4,0.6115,1
+CUS00257,58,Female,West,Standard,62,52.72,3078.31,29,15,0,6,14,0.26,Two year,Bank transfer,1,0.0776,0
+CUS00258,44,Non-binary,Central,Basic,34,18.72,645.53,4,9,2,6,40,0.35,One year,Bank transfer,1,0.2183,0
+CUS00259,53,Non-binary,South,Basic,31,28.09,783.66,39,6,2,0,15,0.92,Two year,Credit card,4,0.4326,0
+CUS00260,45,Non-binary,East,Standard,36,59.53,1941.74,14,13,2,,67,0.8,Two year,Credit card,4,0.4103,0
+CUS00261,44,Female,South,Standard,16,43.8,597.34,13,7,1,4,46,0.61,One year,Bank transfer,4,0.5558,1
+CUS00262,61,Female,East,Basic,64,21.36,1261.8,25,5,7,1,73,0.13,Month-to-month,Credit card,2,0.6709,1
+CUS00263,37,Non-binary,West,Standard,26,58.77,1545.03,11,7,7,1,80,0.52,One year,Check,2,0.6432,1
+CUS00264,25,Female,North,Basic,8,18.23,126.77,47,6,4,4,46,0.56,One year,PayPal,0,0.456,0
+CUS00265,48,Male,East,Premium,26,92.31,2510.16,18,6,5,9,65,0.49,Two year,Credit card,3,0.5261,1
+CUS00266,31,Male,East,Standard,52,32.14,1496.87,20,11,4,10,34,0.61,Two year,PayPal,3,0.121,0
+CUS00267,45,Non-binary,Central,Premium,58,61.39,3544.79,42,5,1,2,21,0.4,Month-to-month,Credit card,3,0.3247,0
+CUS00268,47,Non-binary,North,Basic,34,24.27,765.74,14,4,4,6,80,0.13,Month-to-month,Credit card,0,0.7809,1
+CUS00269,64,Female,East,Standard,60,46.22,2603.95,60,12,8,1,75,0.6,Two year,PayPal,2,0.0594,0
+CUS00270,27,Female,East,Standard,53,39.11,2099.93,54,3,5,3,60,0.54,Two year,Check,2,0.126,0
+CUS00271,22,Female,East,Premium,30,71.31,2195.85,27,7,3,1,82,0.39,Two year,Bank transfer,2,0.5552,1
+CUS00272,55,Non-binary,East,Standard,69,42.39,2592.88,18,2,7,8,57,0.27,Two year,Bank transfer,2,0.2936,0
+CUS00273,23,Male,North,Premium,3,76.15,226.86,46,1,3,0,19,0.01,Month-to-month,PayPal,3,0.7549,1
+CUS00274,45,Female,North,Standard,11,58.55,647.35,4,9,7,1,24,0.9,One year,Check,0,0.7542,1
+CUS00275,29,Non-binary,South,Standard,57,59.84,3400.87,6,9,3,6,49,0.68,One year,PayPal,1,0.272,0
+CUS00276,57,Non-binary,North,Standard,62,35.96,2280.2,13,2,3,9,55,0.32,Month-to-month,PayPal,4,0.6754,1
+CUS00277,29,Female,South,Basic,6,23.72,125.38,49,2,3,1,63,0.09,One year,Credit card,0,0.2883,0
+CUS00278,56,Male,South,Standard,30,46.75,1289.55,57,8,3,,88,0.38,Month-to-month,PayPal,0,0.5873,1
+CUS00279,53,Non-binary,West,Premium,38,94.0,3424.56,20,12,7,3,76,0.91,Month-to-month,Credit card,4,0.8924,1
+CUS00280,38,Non-binary,East,Standard,1,45.18,46.38,39,14,5,8,30,0.32,Month-to-month,Check,1,0.7685,1
+CUS00281,55,Non-binary,West,Premium,20,98.45,1717.15,33,11,1,,16,0.18,Month-to-month,Bank transfer,0,0.6229,1
+CUS00282,58,Non-binary,West,Standard,68,47.71,2900.86,45,2,0,2,83,0.49,Month-to-month,Check,0,0.3811,0
+CUS00283,45,Non-binary,West,Standard,8,37.97,262.47,19,2,3,7,12,0.1,Month-to-month,Check,1,0.8449,1
+CUS00284,58,Non-binary,South,Premium,72,98.32,6523.99,29,12,6,0,21,0.79,Two year,PayPal,1,0.2013,0
+CUS00285,56,Non-binary,West,Standard,41,59.91,2290.43,40,7,5,8,30,0.56,Month-to-month,Check,4,0.7428,1
+CUS00286,50,Female,West,Basic,5,29.74,155.94,19,1,4,2,27,0.86,Month-to-month,PayPal,4,0.8988,1
+CUS00287,54,Non-binary,Central,Premium,20,69.37,1252.82,56,10,3,2,32,0.81,Month-to-month,Check,4,0.7418,1
+CUS00288,42,Female,South,Standard,13,39.01,489.51,5,13,0,4,44,0.88,Two year,Check,0,0.295,0
+CUS00289,36,Non-binary,Central,Basic,49,15.81,746.01,20,9,3,1,6,0.67,Two year,Check,4,0.1398,0
+CUS00290,49,Female,West,Basic,17,20.04,326.93,16,2,6,7,55,0.77,Month-to-month,Bank transfer,3,0.8756,1
+CUS00291,57,Male,West,Standard,26,59.91,1399.5,17,13,6,4,87,0.92,Month-to-month,Credit card,3,0.8331,1
+CUS00292,42,Female,Central,Basic,40,17.54,709.01,39,3,7,,29,0.2,One year,Bank transfer,0,0.17,0
+CUS00293,29,Non-binary,North,Basic,19,28.03,526.58,7,5,7,6,2,0.33,Month-to-month,Bank transfer,4,0.8246,1
+CUS00294,52,Non-binary,South,Basic,49,23.75,1028.83,18,4,4,,59,0.65,Month-to-month,Credit card,3,0.7127,1
+CUS00295,64,Female,East,Basic,3,19.39,60.84,32,12,1,4,62,0.87,Month-to-month,Bank transfer,1,0.6211,1
+CUS00296,23,Male,South,Premium,40,69.42,2552.87,22,6,4,2,64,0.28,Month-to-month,PayPal,3,0.7643,1
+CUS00297,23,Non-binary,East,Basic,20,20.13,400.98,33,11,3,5,30,0.57,Two year,PayPal,4,0.2286,0
+CUS00298,35,Non-binary,South,Premium,70,68.29,4721.53,57,9,2,5,18,0.66,Month-to-month,PayPal,0,0.2002,0
+CUS00299,57,Non-binary,North,Basic,41,27.59,1033.61,26,7,4,6,81,0.93,One year,Bank transfer,1,0.3457,0
+CUS00300,61,Non-binary,East,Premium,30,61.57,1599.39,49,8,2,7,77,0.47,One year,Bank transfer,3,0.2612,0
+CUS00301,53,Female,South,Basic,25,18.39,475.88,60,7,3,10,85,0.99,Month-to-month,Credit card,1,0.8012,1
+CUS00302,61,Female,East,Standard,32,53.29,1730.63,46,6,6,8,73,0.59,Month-to-month,Credit card,3,0.5991,1
+CUS00303,51,Male,South,Premium,69,93.46,6147.1,40,1,3,3,56,0.4,One year,PayPal,3,0.2476,0
+CUS00304,25,Non-binary,Central,Basic,60,27.45,1437.23,49,10,8,1,50,0.41,Two year,Credit card,1,0.1101,0
+CUS00305,51,Non-binary,South,Standard,12,50.75,614.66,45,12,1,0,14,0.71,One year,Credit card,4,0.2264,0
+CUS00306,54,Non-binary,South,Standard,71,53.05,3627.56,42,14,2,1,18,0.18,Month-to-month,Check,2,0.1145,0
+CUS00307,41,Non-binary,West,Standard,24,33.95,794.03,16,1,7,6,63,0.54,Month-to-month,Check,1,0.863,1
+CUS00308,51,Female,West,Basic,1,18.67,17.95,52,4,0,1,18,0.06,One year,Credit card,1,0.3616,0
+CUS00309,24,Non-binary,Central,Premium,39,66.53,2721.15,10,11,4,8,84,0.69,Month-to-month,Check,4,0.8212,1
+CUS00310,41,Female,East,Standard,9,55.3,469.91,7,12,4,4,67,0.41,Month-to-month,Bank transfer,4,0.9405,1
+CUS00311,25,Male,Central,Premium,12,116.03,1458.16,18,7,5,3,67,0.58,One year,Bank transfer,4,0.7274,1
+CUS00312,62,Female,West,Basic,30,25.63,657.25,40,13,1,10,26,0.8,Two year,Check,0,0.0855,0
+CUS00313,43,Female,Central,Basic,2,24.61,42.5,19,9,8,4,0,0.11,One year,PayPal,3,0.4679,0
+CUS00314,23,Male,South,Standard,44,44.37,1673.32,8,8,2,9,58,0.89,One year,Check,3,0.2413,0
+CUS00315,25,Non-binary,East,Premium,41,94.64,3555.63,58,15,5,0,19,0.28,Month-to-month,PayPal,3,0.2768,0
+CUS00316,58,Non-binary,West,Basic,15,27.97,383.01,2,5,6,0,63,0.88,One year,Check,2,0.5208,1
+CUS00317,35,Non-binary,East,Basic,15,20.61,268.5,32,1,7,7,19,0.19,Two year,PayPal,2,0.5379,1
+CUS00318,55,Non-binary,South,Basic,5,21.89,93.12,59,1,1,4,59,0.89,Month-to-month,PayPal,0,0.8009,1
+CUS00319,58,Female,South,Standard,26,38.3,934.28,7,5,2,1,35,0.11,Month-to-month,Bank transfer,4,0.8173,1
+CUS00320,31,Non-binary,East,Premium,32,113.53,3480.79,3,3,0,6,86,0.05,Two year,Credit card,0,0.7832,1
+CUS00321,49,Female,South,Premium,58,109.05,6277.97,42,13,8,0,59,0.57,Month-to-month,Check,0,0.3568,0
+CUS00322,51,Female,South,Basic,19,27.92,492.51,44,15,5,4,58,0.49,Month-to-month,Check,0,0.6005,1
+CUS00323,44,Female,West,Basic,37,26.52,854.25,52,12,1,4,71,0.65,One year,Check,3,0.114,0
+CUS00324,37,Non-binary,South,Standard,50,36.25,1696.92,27,10,5,7,88,0.24,Month-to-month,Check,0,0.499,0
+CUS00325,59,Non-binary,West,Standard,72,43.36,2907.0,38,2,6,4,63,0.64,Month-to-month,Credit card,1,0.5285,1
+CUS00326,62,Male,South,Basic,58,22.97,1184.56,43,15,5,3,72,0.79,One year,Check,2,0.0372,0
+CUS00327,27,Non-binary,North,Premium,66,77.65,4734.61,35,1,0,10,71,0.82,One year,Credit card,2,0.2186,0
+CUS00328,59,Female,East,Standard,52,46.35,2277.58,12,9,6,4,53,0.15,Month-to-month,Bank transfer,0,0.563,1
+CUS00329,26,Non-binary,North,Basic,63,24.87,1374.79,51,7,7,10,77,0.93,Month-to-month,Check,4,0.2798,0
+CUS00330,46,Female,South,Basic,55,24.07,1187.96,32,5,6,7,73,0.37,Month-to-month,Check,2,0.6935,1
+CUS00331,29,Non-binary,West,Basic,19,25.95,493.11,17,8,8,0,66,0.89,Month-to-month,Bank transfer,3,0.8124,1
+CUS00332,64,Male,Central,Premium,40,92.1,3139.35,29,9,7,8,42,0.42,One year,PayPal,1,0.2029,0
+CUS00333,24,Non-binary,Central,Standard,34,44.19,1292.6,18,13,0,3,62,0.08,Month-to-month,PayPal,2,0.744,1
+CUS00334,38,Male,North,Premium,23,99.55,2115.53,11,5,3,6,23,0.8,Month-to-month,PayPal,0,0.8881,1
+CUS00335,31,Non-binary,South,Standard,53,37.14,1924.16,13,10,5,,82,0.26,Month-to-month,Credit card,1,0.5196,1
+CUS00336,52,Non-binary,Central,Basic,49,25.25,1182.92,27,1,4,6,48,0.68,Month-to-month,Credit card,4,0.7393,1
+CUS00337,62,Female,West,Premium,35,65.9,2262.37,25,8,3,10,86,0.59,Month-to-month,PayPal,1,0.715,1
+CUS00338,22,Male,North,Standard,13,50.56,654.03,16,4,0,,79,0.09,Month-to-month,Credit card,0,0.8806,1
+CUS00339,27,Non-binary,South,Standard,24,50.87,1151.77,59,2,7,3,54,0.69,One year,PayPal,1,0.264,0
+CUS00340,25,Female,West,Standard,8,54.38,375.82,59,4,6,1,82,0.49,Month-to-month,Check,1,0.7093,1
+CUS00341,61,Non-binary,North,Standard,34,32.19,985.14,28,1,7,1,83,0.64,Month-to-month,Check,2,0.8324,1
+CUS00342,47,Non-binary,North,Premium,63,103.67,6612.56,4,9,3,,49,0.95,Two year,Credit card,4,0.5468,1
+CUS00343,56,Female,East,Standard,52,59.91,2875.66,54,6,1,6,37,0.65,Month-to-month,Credit card,3,0.3903,0
+CUS00344,46,Male,East,Standard,11,43.14,406.75,1,12,3,6,49,0.06,One year,Check,4,0.5637,1
+CUS00345,50,Male,North,Standard,8,51.63,368.57,41,11,8,6,86,0.87,Month-to-month,Bank transfer,0,0.8404,1
+CUS00346,63,Male,West,Premium,6,60.86,356.59,57,5,1,6,78,0.17,Month-to-month,Credit card,0,0.6594,1
+CUS00347,53,Non-binary,Central,Basic,9,27.07,254.94,43,7,5,0,87,0.58,Month-to-month,PayPal,1,0.804,1
+CUS00348,43,Male,North,Standard,19,35.04,587.87,15,15,0,1,12,0.79,Two year,Bank transfer,0,0.1075,0
+CUS00349,53,Male,North,Basic,23,28.89,602.51,44,13,7,10,16,0.21,One year,Check,3,0.2024,0
+CUS00350,24,Non-binary,South,Standard,12,53.48,546.08,15,4,1,7,12,0.62,Month-to-month,Check,1,0.8674,1
+CUS00351,39,Male,South,Basic,20,25.28,447.59,42,15,0,,82,0.36,Month-to-month,Check,2,0.5147,1
+CUS00352,51,Male,North,Basic,69,17.64,1062.84,57,4,7,8,74,0.33,Month-to-month,PayPal,1,0.4559,0
+CUS00353,29,Female,South,Basic,31,26.07,722.61,30,10,7,,55,0.14,Two year,Bank transfer,3,0.2468,0
+CUS00354,34,Non-binary,East,Standard,26,30.96,729.39,7,14,7,6,53,0.17,One year,Bank transfer,2,0.4835,0
+CUS00355,60,Male,Central,Basic,71,27.83,1872.87,13,10,7,6,35,0.01,Two year,Bank transfer,1,0.1006,0
+CUS00356,59,Male,Central,Basic,54,29.7,1609.77,2,7,8,5,61,0.81,Month-to-month,Check,3,0.8835,1
+CUS00357,37,Male,Central,Basic,53,29.25,1518.51,5,1,7,9,39,0.16,Two year,Credit card,3,0.3656,0
+CUS00358,47,Male,East,Standard,1,32.12,29.44,2,5,6,3,89,0.95,Month-to-month,Credit card,4,0.9642,1
+CUS00359,43,Non-binary,North,Premium,47,81.94,3750.38,23,6,2,9,71,0.7,Month-to-month,Bank transfer,2,0.7401,1
+CUS00360,52,Non-binary,Central,Basic,29,19.81,536.91,3,2,5,4,57,0.49,Month-to-month,Check,4,0.9206,1
+CUS00361,65,Non-binary,East,Standard,48,58.36,2908.22,4,4,7,0,10,0.39,Month-to-month,PayPal,0,0.7855,1
+CUS00362,31,Female,South,Basic,67,29.28,1935.24,59,3,7,4,53,0.44,Month-to-month,PayPal,1,0.3476,0
+CUS00363,26,Male,South,Premium,43,98.76,3886.82,37,11,8,7,56,0.46,Month-to-month,PayPal,1,0.6991,1
+CUS00364,45,Female,North,Basic,46,19.27,781.96,34,5,2,1,90,0.69,Month-to-month,Bank transfer,1,0.5044,1
+CUS00365,29,Male,East,Premium,17,72.31,1218.73,42,6,5,1,47,0.45,Month-to-month,PayPal,0,0.7673,1
+CUS00366,53,Male,West,Standard,20,52.15,955.66,45,5,7,3,73,0.67,Two year,PayPal,0,0.2909,0
+CUS00367,52,Male,South,Premium,15,110.45,1556.01,5,6,0,8,82,0.2,Month-to-month,PayPal,1,0.9733,1
+CUS00368,50,Non-binary,North,Premium,51,96.3,5101.27,58,11,5,5,18,0.72,Two year,PayPal,3,0.1217,0
+CUS00369,45,Male,East,Standard,45,43.37,1743.09,56,8,6,6,36,0.16,Two year,Check,1,0.1227,0
+CUS00370,31,Male,East,Standard,68,31.98,2177.3,5,1,6,9,34,0.41,Two year,Bank transfer,1,0.1245,0
+CUS00371,33,Female,East,Premium,63,110.08,6316.32,35,12,7,2,3,0.79,Month-to-month,PayPal,2,0.7076,1
+CUS00372,52,Male,East,Standard,23,50.64,1017.81,17,8,1,8,46,0.58,Two year,PayPal,3,0.4023,0
+CUS00373,29,Female,Central,Premium,3,63.51,174.13,56,12,2,4,20,0.05,One year,Check,2,0.2453,0
+CUS00374,62,Male,Central,Basic,24,26.47,580.98,20,14,4,3,87,0.7,One year,Credit card,4,0.5161,1
+CUS00375,59,Female,South,Basic,18,22.77,376.28,58,3,1,2,19,0.5,Month-to-month,Credit card,3,0.503,1
+CUS00376,30,Male,West,Standard,40,34.17,1431.75,33,13,5,1,90,0.3,Month-to-month,Bank transfer,1,0.5848,1
+CUS00377,31,Non-binary,South,Standard,17,59.43,1012.94,7,2,0,6,55,0.04,Month-to-month,Credit card,4,0.9046,1
+CUS00378,38,Male,North,Standard,2,53.47,95.29,57,4,2,9,44,0.03,Month-to-month,PayPal,4,0.7518,1
+CUS00379,44,Female,South,Premium,31,109.18,3393.55,33,4,3,3,21,0.9,Month-to-month,Credit card,1,0.8909,1
+CUS00380,52,Female,Central,Basic,57,25.1,1496.88,27,4,8,2,52,0.11,One year,Credit card,3,0.1686,0
+CUS00381,29,Non-binary,South,Standard,47,46.71,2010.13,7,7,4,6,76,0.74,Two year,Bank transfer,4,0.227,0
+CUS00382,49,Male,North,Standard,48,59.96,2506.91,28,9,1,0,18,0.39,Month-to-month,Bank transfer,0,0.6651,1
+CUS00383,45,Male,East,Basic,52,16.84,793.11,45,13,4,9,51,0.36,Two year,Check,4,0.0905,0
+CUS00384,28,Male,East,Standard,64,58.27,3720.18,53,2,7,9,3,0.97,Two year,PayPal,1,0.1619,0
+CUS00385,41,Non-binary,Central,Basic,10,24.92,235.05,18,11,7,6,64,0.26,One year,Credit card,0,0.7019,1
+CUS00386,29,Female,West,Standard,49,31.08,1495.33,49,5,2,6,55,0.13,Two year,Check,0,0.076,0
+CUS00387,58,Non-binary,West,Premium,70,111.26,7409.2,25,5,7,8,48,0.62,One year,PayPal,2,0.4512,0
+CUS00388,30,Female,East,Premium,4,82.83,309.99,22,7,5,,84,0.24,Month-to-month,PayPal,4,0.9576,1
+CUS00389,27,Non-binary,North,Standard,15,30.59,432.32,55,7,8,5,34,0.02,Two year,Credit card,2,0.1498,0
+CUS00390,58,Male,West,Basic,27,20.04,496.66,39,5,5,5,25,0.5,Month-to-month,Bank transfer,2,0.6827,1
+CUS00391,38,Male,East,Premium,52,117.48,6069.5,37,2,5,3,8,0.57,Two year,Check,1,0.2488,0
+CUS00392,41,Non-binary,East,Standard,70,42.43,2830.72,42,13,8,1,2,0.63,Month-to-month,Check,1,0.2128,0
+CUS00393,64,Non-binary,West,Standard,69,55.58,3976.64,46,11,0,7,25,0.36,Month-to-month,Bank transfer,1,0.2129,0
+CUS00394,49,Female,East,Basic,27,27.69,659.5,43,10,3,5,30,0.11,Month-to-month,Credit card,1,0.3042,0
+CUS00395,41,Female,West,Premium,56,72.12,3653.19,1,5,4,9,70,0.18,Month-to-month,Check,0,0.8853,1
+CUS00396,42,Non-binary,East,Basic,53,28.45,1401.36,53,12,2,2,14,0.57,Month-to-month,PayPal,3,0.3367,0
+CUS00397,27,Male,Central,Basic,41,19.94,817.27,15,15,6,2,18,0.11,Month-to-month,PayPal,3,0.3782,0
+CUS00398,25,Female,Central,Standard,15,42.71,667.98,56,13,2,4,60,0.72,One year,Credit card,4,0.3536,0
+CUS00399,24,Non-binary,North,Basic,33,23.29,709.06,51,11,1,7,30,0.86,Two year,Credit card,3,0.267,0
+CUS00400,41,Male,South,Standard,27,34.81,858.51,51,13,6,,35,0.87,Two year,Check,3,0.0957,0
+CUS00401,43,Non-binary,West,Basic,21,25.48,519.25,52,9,5,6,88,0.03,Month-to-month,Bank transfer,3,0.7248,1
+CUS00402,47,Male,East,Standard,11,37.49,413.84,41,13,2,8,87,0.41,One year,Check,3,0.3054,0
+CUS00403,30,Female,South,Premium,42,84.87,3159.53,56,7,3,,2,0.92,Month-to-month,Credit card,3,0.4864,0
+CUS00404,32,Male,West,Premium,55,117.48,5712.04,36,2,0,10,67,0.44,Two year,Check,0,0.4815,0
+CUS00405,36,Non-binary,South,Basic,35,19.32,690.58,38,4,4,10,86,0.19,Month-to-month,Check,1,0.8819,1
+CUS00406,37,Non-binary,West,Basic,48,23.74,1075.45,55,6,6,9,27,0.71,Two year,PayPal,0,0.0863,0
+CUS00407,28,Non-binary,North,Basic,43,28.97,1209.93,42,13,0,,32,0.5,Two year,PayPal,3,0.1018,0
+CUS00408,57,Male,Central,Basic,34,17.55,563.06,5,6,8,5,18,0.26,One year,Credit card,1,0.2884,0
+CUS00409,53,Female,East,Standard,37,37.9,1451.86,33,6,6,1,40,0.74,Two year,Bank transfer,4,0.3868,0
+CUS00410,50,Male,South,Basic,7,18.45,128.01,27,2,7,,56,0.36,Two year,Check,3,0.4391,0
+CUS00411,29,Non-binary,South,Basic,45,16.4,652.14,32,14,4,8,84,0.59,Month-to-month,Bank transfer,3,0.6452,1
+CUS00412,53,Non-binary,North,Standard,4,59.44,219.86,59,2,5,1,3,0.08,Two year,Check,2,0.2786,0
+CUS00413,60,Non-binary,North,Standard,6,58.53,349.88,46,15,2,2,6,0.8,One year,PayPal,0,0.1789,0
+CUS00414,60,Female,North,Standard,33,58.95,1688.25,54,4,2,5,51,0.28,Month-to-month,Credit card,2,0.4576,0
+CUS00415,53,Female,East,Premium,17,82.05,1241.38,28,15,6,6,34,0.56,Two year,Credit card,3,0.4573,0
+CUS00416,49,Non-binary,West,Basic,6,22.7,133.41,45,3,7,7,80,0.65,Month-to-month,PayPal,3,0.7621,1
+CUS00417,49,Male,West,Standard,20,50.53,909.27,27,5,0,7,9,0.92,Month-to-month,Check,3,0.8455,1
+CUS00418,58,Female,East,Standard,11,30.49,316.13,50,3,6,,10,0.42,One year,PayPal,4,0.3731,0
+CUS00419,51,Non-binary,West,Premium,34,108.6,3294.41,5,12,4,9,13,0.43,Month-to-month,Credit card,3,0.888,1
+CUS00420,52,Female,West,Premium,63,97.0,6038.48,44,11,6,3,11,0.13,Month-to-month,Bank transfer,0,0.3625,0
+CUS00421,23,Non-binary,South,Basic,27,22.22,610.99,54,13,8,2,11,0.3,Two year,Bank transfer,3,0.102,0
+CUS00422,31,Non-binary,West,Standard,61,43.49,2411.39,53,14,6,,42,0.01,Two year,Check,3,0.0743,0
+CUS00423,59,Non-binary,Central,Standard,5,44.58,216.73,43,15,7,2,7,0.53,Two year,PayPal,4,0.5313,1
+CUS00424,48,Female,North,Standard,45,43.09,1929.82,30,6,7,2,64,0.22,One year,Check,1,0.3301,0
+CUS00425,40,Non-binary,West,Standard,47,53.99,2472.49,18,12,1,9,61,0.13,Month-to-month,Bank transfer,4,0.5232,1
+CUS00426,53,Female,South,Basic,72,15.71,1042.22,10,3,8,,8,0.34,Month-to-month,Bank transfer,0,0.4128,0
+CUS00427,57,Male,West,Standard,44,53.08,2245.38,57,3,8,8,85,0.1,Month-to-month,Check,3,0.8203,1
+CUS00428,28,Non-binary,Central,Basic,72,15.63,1152.56,58,6,2,10,37,0.71,Two year,Credit card,1,0.0245,0
+CUS00429,63,Female,East,Basic,16,27.73,445.37,15,14,7,4,36,0.51,Month-to-month,PayPal,2,0.7777,1
+CUS00430,62,Non-binary,South,Basic,68,21.33,1352.8,26,15,7,7,87,0.36,Month-to-month,Check,1,0.2997,0
+CUS00431,22,Non-binary,Central,Basic,11,20.07,206.82,25,13,0,9,82,0.15,Month-to-month,PayPal,3,0.6952,1
+CUS00432,57,Female,East,Standard,2,57.01,100.27,25,8,3,7,79,0.79,Two year,PayPal,3,0.7732,1
+CUS00433,34,Female,North,Basic,69,20.02,1208.99,34,5,3,0,65,0.55,One year,Bank transfer,0,0.1838,0
+CUS00434,59,Female,South,Standard,55,33.31,1693.91,40,9,5,0,6,0.76,Month-to-month,Check,2,0.3278,0
+CUS00435,58,Non-binary,North,Standard,44,54.16,2295.15,57,11,8,8,29,0.35,One year,Bank transfer,3,0.0902,0
+CUS00436,42,Non-binary,Central,Basic,47,21.81,955.79,5,1,6,1,60,0.21,Month-to-month,PayPal,4,0.8481,1
+CUS00437,47,Non-binary,Central,Premium,51,98.19,5254.58,44,15,7,10,53,0.82,Month-to-month,Bank transfer,3,0.5647,1
+CUS00438,54,Non-binary,North,Basic,59,22.1,1204.63,60,2,6,0,15,0.37,One year,Credit card,4,0.0634,0
+CUS00439,31,Male,East,Standard,48,44.58,1879.7,37,7,0,3,36,0.22,Two year,Credit card,0,0.0889,0
+CUS00440,24,Female,West,Premium,40,106.88,4040.26,46,14,2,1,64,0.64,Two year,Check,1,0.2096,0
+CUS00441,42,Male,Central,Premium,53,80.34,3658.34,42,15,7,10,35,0.65,Month-to-month,Credit card,4,0.3428,0
+CUS00442,41,Non-binary,North,Premium,11,94.61,895.61,36,9,3,6,64,0.9,Month-to-month,Bank transfer,0,0.7038,1
+CUS00443,39,Male,South,Premium,57,79.23,4370.59,31,14,0,4,55,0.18,Month-to-month,PayPal,3,0.4834,0
+CUS00444,28,Non-binary,South,Standard,19,53.05,1048.7,43,3,0,8,41,0.18,Month-to-month,PayPal,3,0.7954,1
+CUS00445,28,Female,South,Standard,42,58.25,2104.91,15,13,3,6,65,0.75,Two year,Credit card,2,0.4735,0
+CUS00446,48,Male,West,Basic,53,24.5,1247.62,37,11,1,2,71,0.65,Month-to-month,PayPal,4,0.5739,1
+CUS00447,48,Female,North,Premium,27,92.43,2205.21,15,9,6,7,57,0.04,Two year,PayPal,1,0.7795,1
+CUS00448,52,Female,Central,Standard,49,55.27,2757.35,18,1,2,10,68,0.56,One year,Credit card,3,0.4401,0
+CUS00449,29,Male,Central,Standard,56,45.14,2595.55,60,6,4,10,57,0.27,One year,PayPal,1,0.041,0
+CUS00450,23,Non-binary,South,Basic,61,15.06,882.98,44,12,7,5,68,0.08,Month-to-month,Credit card,3,0.4086,0
+CUS00451,65,Male,East,Standard,46,55.17,2656.49,7,8,5,2,56,0.01,Month-to-month,PayPal,2,0.8461,1
+CUS00452,62,Female,South,Basic,64,29.51,1871.28,38,4,0,2,81,0.4,One year,Check,1,0.2591,0
+CUS00453,57,Male,Central,Premium,23,63.9,1325.56,36,14,3,7,35,0.19,Month-to-month,PayPal,4,0.6459,1
+CUS00454,49,Non-binary,North,Standard,56,42.21,2254.22,31,6,8,,28,0.05,Two year,Check,2,0.1562,0
+CUS00455,22,Female,South,Standard,11,54.23,533.97,44,7,1,2,25,0.16,One year,Credit card,0,0.3539,0
+CUS00456,23,Non-binary,East,Standard,32,37.15,1023.42,21,9,3,0,76,0.62,Month-to-month,Check,4,0.8139,1
+CUS00457,29,Male,North,Basic,49,19.7,845.13,58,13,7,,38,0.61,Two year,Credit card,0,0.036,0
+CUS00458,40,Female,West,Basic,53,18.5,835.5,24,8,6,8,79,0.1,Month-to-month,Check,4,0.5536,1
+CUS00459,43,Non-binary,South,Basic,14,15.18,216.38,57,10,2,9,65,0.26,Two year,Check,4,0.1755,0
+CUS00460,24,Male,South,Standard,56,49.55,2682.49,34,13,2,1,60,0.31,One year,PayPal,2,0.1478,0
+CUS00461,22,Non-binary,Central,Basic,8,18.56,127.83,22,4,3,9,25,0.79,One year,Bank transfer,3,0.3565,0
+CUS00462,60,Non-binary,East,Premium,43,69.74,2821.47,50,15,0,6,28,0.92,Month-to-month,Bank transfer,3,0.1143,0
+CUS00463,61,Male,South,Standard,43,41.28,1802.05,0,6,0,0,45,0.03,Month-to-month,Bank transfer,2,0.6291,1
+CUS00464,45,Male,North,Basic,26,19.26,443.1,54,9,3,1,25,0.02,One year,Credit card,0,0.1154,0
+CUS00465,65,Male,West,Basic,44,29.04,1292.96,42,3,8,8,55,0.88,Month-to-month,Credit card,1,0.638,1
+CUS00466,34,Male,Central,Standard,48,42.89,2129.13,48,10,3,7,37,0.79,One year,Bank transfer,0,0.0624,0
+CUS00467,62,Female,South,Premium,63,88.24,5462.95,4,3,8,5,82,0.75,One year,Check,4,0.4788,0
+CUS00468,45,Non-binary,West,Standard,61,42.03,2478.7,2,4,3,2,57,0.86,Two year,Bank transfer,2,0.3404,0
+CUS00469,49,Female,Central,Basic,48,18.82,821.16,33,6,3,8,5,0.47,One year,Check,3,0.0805,0
+CUS00470,53,Female,East,Standard,4,37.01,136.47,5,5,8,7,69,0.64,One year,Bank transfer,0,0.6972,1
+CUS00471,29,Male,East,Basic,70,18.0,1147.28,52,13,4,2,90,0.6,Month-to-month,PayPal,0,0.2077,0
+CUS00472,44,Female,West,Premium,2,105.67,185.95,25,4,3,10,26,0.47,Two year,Check,2,0.5938,1
+CUS00473,27,Female,South,Standard,54,43.5,2172.68,36,14,2,3,1,0.5,One year,PayPal,1,0.0306,0
+CUS00474,47,Non-binary,Central,Standard,42,47.03,1733.94,60,6,6,5,26,0.95,Month-to-month,Check,1,0.4503,0
+CUS00475,52,Male,East,Premium,58,70.29,4015.57,11,1,7,,23,0.2,Two year,PayPal,1,0.2737,0
+CUS00476,26,Female,North,Standard,67,39.8,2475.19,7,3,8,5,61,0.74,Two year,Bank transfer,1,0.4343,0
+CUS00477,35,Female,West,Standard,21,58.17,1161.1,43,8,4,2,0,0.99,Two year,Credit card,3,0.2068,0
+CUS00478,43,Non-binary,West,Standard,60,52.12,3209.13,29,6,4,5,78,0.82,Month-to-month,Check,1,0.5329,1
+CUS00479,33,Non-binary,West,Standard,50,35.5,1648.46,60,1,3,1,35,0.88,One year,Credit card,1,0.1103,0
+CUS00480,57,Male,East,Basic,14,22.57,279.0,13,9,0,6,3,0.07,Two year,Check,2,0.2773,0
+CUS00481,47,Male,West,Basic,2,18.76,36.92,29,8,7,0,10,0.55,Month-to-month,Check,1,0.6632,1
+CUS00482,32,Male,North,Premium,13,104.49,1200.38,42,13,0,9,34,0.15,One year,Bank transfer,1,0.3438,0
+CUS00483,24,Non-binary,Central,Basic,57,25.45,1419.03,45,11,1,5,88,0.31,Month-to-month,Credit card,0,0.3633,0
+CUS00484,37,Female,South,Basic,12,15.24,185.46,43,11,1,2,12,0.8,Month-to-month,Bank transfer,0,0.2534,0
+CUS00485,48,Non-binary,North,Standard,42,35.69,1436.53,60,7,1,2,27,0.11,One year,Bank transfer,0,0.0376,0
+CUS00486,46,Male,West,Basic,9,24.87,192.22,56,4,6,3,76,0.5,Month-to-month,Bank transfer,2,0.802,1
+CUS00487,28,Non-binary,East,Standard,18,49.06,806.78,54,11,7,0,42,0.02,Two year,Check,4,0.2387,0
+CUS00488,59,Non-binary,North,Basic,3,24.25,72.57,48,4,1,,17,0.37,One year,Bank transfer,1,0.2033,0
+CUS00489,46,Male,North,Basic,57,26.09,1455.48,48,1,8,5,82,0.81,Month-to-month,Bank transfer,2,0.5187,1
+CUS00490,25,Non-binary,South,Basic,49,22.82,964.9,31,2,3,,81,0.99,Month-to-month,Bank transfer,0,0.6615,1
+CUS00491,33,Non-binary,Central,Basic,31,22.61,618.79,12,4,6,1,77,0.25,One year,Check,1,0.4509,0
+CUS00492,27,Female,West,Standard,22,42.68,879.51,9,14,7,,48,0.43,Month-to-month,PayPal,4,0.9338,1
+CUS00493,56,Male,Central,Basic,33,20.71,657.75,30,2,5,1,60,0.2,Month-to-month,Credit card,0,0.7767,1
+CUS00494,45,Female,West,Standard,51,41.19,2054.92,37,2,6,,15,0.38,Month-to-month,Bank transfer,3,0.3788,0
+CUS00495,38,Non-binary,East,Premium,63,63.46,3706.39,27,12,3,2,61,0.03,One year,Credit card,1,0.1007,0
+CUS00496,65,Male,East,Basic,21,15.19,329.64,25,12,1,7,24,0.88,Month-to-month,Check,2,0.7219,1
+CUS00497,41,Non-binary,Central,Standard,40,52.57,2153.02,6,11,5,1,34,0.75,Two year,PayPal,0,0.5197,1
+CUS00498,22,Male,North,Standard,68,38.65,2326.69,11,12,2,2,62,0.18,Month-to-month,Check,4,0.5568,1
+CUS00499,35,Male,South,Basic,24,27.14,667.2,28,11,1,9,21,0.08,Month-to-month,Check,0,0.5265,1
+CUS00500,59,Male,West,Standard,13,37.98,485.38,50,1,1,2,66,0.79,Two year,PayPal,3,0.4802,0
+CUS00501,52,Female,Central,Standard,44,56.7,2528.15,60,6,6,5,78,0.06,One year,PayPal,0,0.3197,0
+CUS00502,47,Non-binary,South,Basic,16,28.04,454.48,23,8,7,7,52,0.66,Month-to-month,PayPal,0,0.7876,1
+CUS00503,62,Female,North,Standard,57,44.54,2561.1,22,7,7,9,89,0.91,Two year,PayPal,4,0.3858,0
+CUS00504,55,Non-binary,Central,Basic,17,22.47,400.81,55,8,2,6,14,0.48,Month-to-month,Bank transfer,1,0.5052,1
+CUS00505,32,Non-binary,North,Basic,56,29.9,1532.58,24,13,4,2,32,0.67,Month-to-month,Bank transfer,4,0.4352,0
+CUS00506,43,Male,Central,Premium,9,103.05,924.85,24,11,8,5,29,0.22,Month-to-month,PayPal,0,0.8019,1
+CUS00507,29,Male,East,Premium,25,82.06,2093.9,24,10,0,3,7,0.59,Month-to-month,Check,3,0.6658,1
+CUS00508,65,Male,Central,Premium,29,111.14,2943.25,52,5,3,6,87,0.46,One year,Bank transfer,0,0.4911,0
+CUS00509,60,Female,East,Premium,16,94.44,1475.1,13,8,4,10,48,0.06,One year,Bank transfer,1,0.7471,1
+CUS00510,36,Non-binary,North,Basic,63,25.91,1685.34,10,1,8,5,43,0.42,Two year,PayPal,3,0.1578,0
+CUS00511,47,Male,Central,Standard,37,35.85,1231.95,8,6,0,10,38,0.46,Month-to-month,Bank transfer,3,0.7229,1
+CUS00512,31,Male,South,Basic,2,20.43,41.15,54,3,6,5,86,0.84,Month-to-month,Credit card,2,0.7479,1
+CUS00513,52,Male,North,Basic,66,24.75,1593.31,25,4,0,0,30,0.4,One year,Bank transfer,3,0.163,0
+CUS00514,64,Non-binary,North,Standard,49,49.6,2124.17,5,2,7,9,85,0.91,Month-to-month,Credit card,4,0.6648,1
+CUS00515,58,Non-binary,West,Standard,13,35.43,450.88,27,5,2,0,41,0.06,Month-to-month,Check,0,0.5558,1
+CUS00516,55,Female,North,Premium,69,67.45,4656.83,42,15,1,1,76,0.7,Month-to-month,Check,2,0.4109,0
+CUS00517,29,Male,South,Premium,27,75.41,2037.32,5,2,8,3,46,0.97,Month-to-month,Check,0,0.8732,1
+CUS00518,55,Female,Central,Standard,18,50.85,958.51,22,10,8,7,26,0.69,Month-to-month,Bank transfer,0,0.7774,1
+CUS00519,34,Male,East,Basic,18,24.03,378.77,39,7,1,7,32,0.26,Month-to-month,Check,3,0.7431,1
+CUS00520,49,Non-binary,South,Premium,27,119.72,3198.05,12,12,5,8,84,0.65,Month-to-month,Check,1,0.9374,1
+CUS00521,42,Female,West,Basic,32,16.16,496.27,4,6,1,4,42,0.78,Month-to-month,Bank transfer,2,0.8441,1
+CUS00522,36,Female,North,Basic,23,22.9,532.68,6,9,5,10,73,0.87,One year,Credit card,0,0.4746,0
+CUS00523,32,Female,West,Basic,45,27.09,1170.7,56,14,6,6,75,0.13,Month-to-month,Bank transfer,1,0.4641,0
+CUS00524,39,Male,East,Basic,54,25.6,1395.8,32,5,4,5,66,0.94,Month-to-month,PayPal,0,0.6243,1
+CUS00525,41,Female,East,Basic,11,16.15,171.44,5,12,4,7,63,0.81,Month-to-month,Check,4,0.9153,1
+CUS00526,53,Non-binary,Central,Basic,52,15.21,673.44,27,12,8,10,44,0.24,Month-to-month,Check,1,0.4092,0
+CUS00527,65,Non-binary,South,Basic,10,20.51,176.42,31,7,2,4,14,0.34,Month-to-month,Credit card,2,0.6734,1
+CUS00528,35,Male,Central,Standard,28,57.87,1544.37,57,1,7,8,62,0.06,Month-to-month,Check,2,0.7949,1
+CUS00529,41,Female,North,Basic,45,28.35,1110.24,31,4,1,7,65,0.9,Two year,Credit card,3,0.4707,0
+CUS00530,38,Male,West,Standard,48,42.85,2082.12,6,8,7,1,17,0.35,Two year,Credit card,2,0.294,0
+CUS00531,34,Male,South,Standard,6,42.63,219.03,42,4,7,9,34,0.12,Two year,Check,1,0.2885,0
+CUS00532,47,Non-binary,West,Basic,15,29.37,404.79,0,13,3,,86,0.83,Two year,Credit card,3,0.8138,1
+CUS00533,52,Female,East,Standard,11,37.43,392.07,15,5,1,3,89,0.25,Two year,Bank transfer,3,0.5872,1
+CUS00534,54,Non-binary,South,Basic,20,18.44,386.53,59,3,6,,78,0.2,Month-to-month,Check,3,0.4854,0
+CUS00535,55,Female,South,Basic,44,21.39,809.71,7,5,5,3,44,0.71,Month-to-month,PayPal,0,0.6888,1
+CUS00536,64,Non-binary,East,Basic,37,22.08,724.62,60,8,5,4,38,0.11,Month-to-month,Bank transfer,2,0.3838,0
+CUS00537,45,Non-binary,East,Premium,68,76.56,5033.58,5,15,1,1,80,0.74,Month-to-month,Credit card,4,0.8518,1
+CUS00538,34,Male,West,Basic,10,29.13,275.23,48,4,8,10,19,0.04,Month-to-month,Check,4,0.7403,1
+CUS00539,38,Non-binary,East,Standard,58,33.52,1840.27,33,15,8,,21,0.6,Month-to-month,PayPal,0,0.2871,0
+CUS00540,34,Non-binary,West,Standard,69,59.15,4081.94,24,9,6,5,77,0.27,Month-to-month,Credit card,1,0.5633,1
+CUS00541,58,Male,Central,Basic,66,21.83,1312.09,14,5,4,7,15,0.17,Month-to-month,Bank transfer,2,0.5427,1
+CUS00542,39,Male,East,Basic,32,29.84,935.52,40,10,5,4,10,0.95,One year,Bank transfer,3,0.1909,0
+CUS00543,61,Female,East,Basic,2,27.36,48.45,1,9,1,10,88,0.38,One year,Bank transfer,3,0.7773,1
+CUS00544,59,Non-binary,West,Basic,58,18.48,1104.46,5,8,2,6,23,0.82,Month-to-month,Bank transfer,4,0.7065,1
+CUS00545,53,Non-binary,South,Standard,3,56.56,167.55,12,2,2,0,54,0.25,Two year,Credit card,4,0.8633,1
+CUS00546,22,Non-binary,North,Standard,50,54.8,2682.18,2,3,3,0,34,0.14,Month-to-month,Credit card,0,0.8427,1
+CUS00547,56,Non-binary,East,Basic,26,17.09,450.16,19,6,7,1,31,0.06,One year,Credit card,0,0.3073,0
+CUS00548,40,Male,Central,Standard,19,36.73,646.98,22,11,4,2,87,0.38,Month-to-month,Check,1,0.7553,1
+CUS00549,29,Male,North,Standard,46,40.01,1904.77,5,15,0,8,19,0.18,One year,Bank transfer,3,0.2881,0
+CUS00550,41,Non-binary,East,Standard,14,44.98,568.69,58,12,1,,19,0.78,Month-to-month,PayPal,1,0.5794,1
+CUS00551,46,Female,West,Basic,15,23.67,308.22,8,3,6,4,40,0.49,Two year,Check,4,0.6889,1
+CUS00552,63,Male,West,Standard,71,46.01,3313.36,24,2,6,7,73,0.78,Month-to-month,Credit card,1,0.4642,0
+CUS00553,45,Male,South,Basic,47,23.38,947.12,22,6,2,3,58,0.14,Two year,Bank transfer,1,0.2292,0
+CUS00554,30,Male,South,Standard,4,42.74,148.94,37,2,7,8,20,0.03,One year,Bank transfer,0,0.3441,0
+CUS00555,37,Male,North,Premium,54,104.61,5646.8,44,5,7,5,43,0.44,Month-to-month,PayPal,0,0.7084,1
+CUS00556,24,Non-binary,South,Premium,21,100.79,2169.92,35,12,4,8,64,0.31,Month-to-month,Check,1,0.904,1
+CUS00557,39,Male,Central,Standard,17,42.01,663.08,52,12,8,8,9,0.82,Two year,Check,2,0.1287,0
+CUS00558,46,Male,North,Standard,55,33.25,1775.05,54,6,0,2,36,0.16,Month-to-month,Credit card,1,0.1663,0
+CUS00559,60,Male,East,Basic,71,18.03,1109.88,36,10,0,8,61,0.05,One year,Credit card,2,0.1024,0
+CUS00560,40,Female,Central,Basic,41,26.28,1067.28,6,6,6,10,64,0.1,Month-to-month,Credit card,4,0.8606,1
+CUS00561,46,Female,Central,Basic,38,17.42,645.54,60,12,3,2,87,0.65,Month-to-month,PayPal,3,0.4622,0
+CUS00562,45,Non-binary,West,Basic,50,18.59,968.17,36,11,7,0,1,0.14,One year,Credit card,3,0.0653,0
+CUS00563,28,Female,East,Basic,38,17.42,574.48,11,12,7,3,60,0.98,Two year,Bank transfer,0,0.3841,0
+CUS00564,45,Female,West,Standard,17,45.37,703.98,5,11,6,7,57,0.26,Month-to-month,Credit card,1,0.8526,1
+CUS00565,57,Male,South,Basic,38,20.64,701.66,55,8,1,4,59,0.47,Two year,Credit card,0,0.0957,0
+CUS00566,47,Female,South,Standard,43,40.27,1545.51,47,8,1,3,58,0.04,Month-to-month,Check,1,0.4731,0
+CUS00567,62,Male,East,Premium,5,63.74,322.43,50,7,7,2,6,0.21,Month-to-month,Check,2,0.6481,1
+CUS00568,31,Male,East,Standard,11,51.37,539.62,42,15,4,1,6,0.09,Two year,PayPal,2,0.2726,0
+CUS00569,32,Male,East,Standard,62,50.66,3107.43,22,15,6,,71,0.78,Month-to-month,Credit card,4,0.541,1
+CUS00570,42,Male,South,Standard,19,39.49,738.9,16,9,0,6,16,0.63,Month-to-month,Credit card,1,0.6234,1
+CUS00571,34,Female,Central,Basic,49,18.24,881.18,0,6,5,,38,0.9,Month-to-month,Check,3,0.6738,1
+CUS00572,56,Female,Central,Standard,15,43.76,630.51,10,9,6,5,36,0.85,Two year,PayPal,4,0.649,1
+CUS00573,28,Male,North,Basic,3,24.24,72.75,59,9,1,9,56,0.5,Month-to-month,PayPal,3,0.7171,1
+CUS00574,57,Female,North,Basic,61,29.26,1682.75,58,14,6,,47,0.78,One year,PayPal,2,0.1157,0
+CUS00575,41,Female,South,Basic,54,15.49,851.65,33,14,5,4,21,0.96,Two year,Bank transfer,4,0.1338,0
+CUS00576,63,Female,North,Premium,55,118.64,5773.13,57,6,8,1,55,0.23,Month-to-month,Credit card,4,0.6961,1
+CUS00577,47,Non-binary,East,Premium,21,65.6,1291.48,40,13,2,,79,0.71,Month-to-month,Check,0,0.5961,1
+CUS00578,51,Non-binary,East,Basic,31,24.79,782.39,46,13,6,3,84,0.05,Month-to-month,Bank transfer,0,0.463,0
+CUS00579,62,Non-binary,North,Basic,59,28.91,1539.21,11,2,1,6,46,0.91,Month-to-month,Check,0,0.5678,1
+CUS00580,26,Female,North,Basic,54,20.63,1127.06,11,5,0,1,84,0.57,Month-to-month,Credit card,2,0.7024,1
+CUS00581,44,Female,Central,Premium,70,75.27,4606.7,38,1,8,,66,0.51,Month-to-month,Bank transfer,2,0.6125,1
+CUS00582,42,Male,South,Basic,17,19.01,297.22,35,11,4,6,63,0.44,Two year,Bank transfer,2,0.3523,0
+CUS00583,33,Male,East,Standard,14,52.99,748.4,46,8,6,6,54,0.6,One year,PayPal,4,0.5308,1
+CUS00584,34,Non-binary,East,Standard,9,56.68,459.42,26,5,8,4,50,0.03,Month-to-month,PayPal,3,0.9316,1
+CUS00585,33,Female,South,Basic,28,24.85,608.45,20,12,0,10,42,0.21,One year,Bank transfer,4,0.4135,0
+CUS00586,35,Non-binary,South,Basic,72,19.17,1410.58,4,10,6,9,55,0.32,One year,Bank transfer,1,0.1837,0
+CUS00587,25,Female,West,Basic,36,21.32,702.57,24,4,0,3,2,0.64,Month-to-month,Check,2,0.7565,1
+CUS00588,24,Non-binary,Central,Basic,44,24.67,1096.88,46,5,4,4,44,0.4,One year,Check,4,0.3777,0
+CUS00589,25,Female,East,Standard,64,59.01,3492.57,39,2,0,2,6,0.83,Month-to-month,Credit card,2,0.5168,1
+CUS00590,36,Male,North,Basic,48,27.24,1291.37,3,5,0,0,6,0.95,Month-to-month,PayPal,2,0.5027,1
+CUS00591,61,Female,East,Basic,18,23.75,376.03,37,15,6,9,57,0.67,Month-to-month,Check,3,0.7809,1
+CUS00592,52,Male,North,Standard,38,40.59,1385.83,41,12,3,10,9,0.08,Two year,Credit card,1,0.086,0
+CUS00593,22,Non-binary,South,Standard,50,33.14,1604.15,33,9,5,3,90,0.45,Month-to-month,Credit card,1,0.566,1
+CUS00594,50,Non-binary,Central,Basic,52,17.82,844.57,55,10,1,1,59,0.88,Month-to-month,Bank transfer,0,0.3192,0
+CUS00595,51,Male,East,Basic,61,24.93,1574.54,5,6,6,2,19,0.4,Two year,PayPal,0,0.1192,0
+CUS00596,25,Non-binary,West,Standard,25,42.08,1005.62,31,9,6,0,87,0.05,Month-to-month,Credit card,1,0.7933,1
+CUS00597,29,Male,North,Premium,35,76.53,2749.59,44,12,6,5,50,0.1,One year,Check,1,0.1996,0
+CUS00598,62,Female,Central,Standard,1,45.1,42.64,19,14,3,1,40,0.68,Month-to-month,Bank transfer,2,0.872,1
+CUS00599,51,Male,North,Standard,55,35.33,1681.59,43,13,0,8,45,0.97,Month-to-month,Check,1,0.2256,0
+CUS00600,23,Non-binary,East,Basic,68,22.55,1334.06,51,12,5,6,62,0.73,One year,Check,2,0.0588,0
+CUS00601,45,Female,North,Standard,39,56.74,2260.2,57,14,7,0,34,0.69,Month-to-month,Bank transfer,3,0.5693,1
+CUS00602,31,Female,West,Basic,32,23.66,674.79,5,4,6,9,13,0.97,Two year,Bank transfer,2,0.2803,0
+CUS00603,65,Female,East,Standard,54,38.29,1997.16,44,6,1,5,58,0.57,One year,PayPal,0,0.1447,0
+CUS00604,65,Male,West,Basic,67,29.5,1800.06,18,2,4,,58,0.04,One year,Credit card,0,0.1635,0
+CUS00605,53,Female,North,Standard,46,30.02,1270.51,18,13,8,9,71,0.16,Month-to-month,PayPal,1,0.6773,1
+CUS00606,59,Male,East,Basic,5,22.1,108.0,27,7,1,3,38,0.6,Month-to-month,Check,2,0.7931,1
+CUS00607,59,Male,South,Standard,18,35.99,589.17,59,11,7,7,23,0.38,Two year,Credit card,1,0.0607,0
+CUS00608,54,Non-binary,East,Standard,46,42.62,1677.29,35,1,6,0,17,0.62,One year,Bank transfer,4,0.2235,0
+CUS00609,54,Female,South,Premium,70,63.21,4508.86,8,7,0,6,66,0.46,Month-to-month,Credit card,0,0.4376,0
+CUS00610,28,Female,Central,Basic,38,23.48,780.08,37,11,8,10,6,0.7,Month-to-month,Check,1,0.7597,1
+CUS00611,36,Non-binary,South,Standard,40,58.1,2265.28,12,2,1,,19,0.6,Month-to-month,Credit card,1,0.776,1
+CUS00612,54,Female,West,Basic,16,19.5,279.86,54,9,4,8,87,0.44,Month-to-month,Check,1,0.7433,1
+CUS00613,62,Male,South,Basic,31,17.56,514.55,18,5,1,8,63,0.37,One year,Check,3,0.3715,0
+CUS00614,48,Female,South,Basic,37,21.86,736.47,41,11,7,,45,0.96,Two year,Check,2,0.1361,0
+CUS00615,22,Male,East,Premium,65,91.5,5665.64,11,11,2,4,83,0.72,One year,Check,1,0.2516,0
+CUS00616,41,Female,North,Standard,49,48.18,2341.23,32,13,8,3,16,0.7,One year,Check,0,0.2139,0
+CUS00617,24,Male,South,Basic,13,24.98,297.05,14,13,3,0,22,0.73,Two year,Check,0,0.3848,0
+CUS00618,24,Non-binary,North,Standard,48,55.22,2423.23,44,8,6,1,81,0.57,Month-to-month,Bank transfer,2,0.6544,1
+CUS00619,53,Female,East,Basic,26,26.13,684.82,5,10,0,9,85,0.1,Month-to-month,Bank transfer,0,0.7535,1
+CUS00620,56,Male,East,Basic,68,22.44,1441.61,22,6,8,1,8,0.44,Two year,Credit card,4,0.2049,0
+CUS00621,27,Male,Central,Standard,13,36.92,439.73,14,14,4,3,49,0.7,Month-to-month,Bank transfer,2,0.8767,1
+CUS00622,55,Non-binary,Central,Standard,52,46.38,2331.1,59,15,4,9,3,0.03,Two year,PayPal,1,0.0467,0
+CUS00623,43,Male,South,Basic,71,27.25,1997.56,3,4,7,0,72,0.9,Month-to-month,PayPal,0,0.7802,1
+CUS00624,61,Male,Central,Standard,17,31.25,505.5,41,6,6,6,38,0.78,Month-to-month,Credit card,0,0.5488,1
+CUS00625,23,Male,Central,Premium,49,93.15,3927.29,49,7,2,5,89,0.43,Month-to-month,Credit card,3,0.7691,1
+CUS00626,45,Female,South,Standard,56,37.15,1772.52,26,12,8,8,5,0.99,Month-to-month,Bank transfer,0,0.4304,0
+CUS00627,26,Male,South,Standard,24,39.42,972.65,18,3,6,6,84,0.12,Month-to-month,Credit card,2,0.9066,1
+CUS00628,44,Male,West,Standard,47,38.78,1741.31,17,6,8,7,13,0.05,Two year,Check,2,0.2104,0
+CUS00629,27,Male,South,Premium,30,67.36,2010.66,50,3,0,2,89,0.44,Two year,Credit card,0,0.191,0
+CUS00630,39,Non-binary,West,Standard,11,55.64,522.54,24,7,7,,28,0.21,Month-to-month,Check,4,0.8883,1
+CUS00631,25,Non-binary,East,Basic,70,26.44,1852.46,21,15,4,8,27,0.76,One year,Check,3,0.1153,0
+CUS00632,25,Male,Central,Standard,37,58.14,2074.86,36,13,8,3,20,0.96,Two year,Bank transfer,1,0.0671,0
+CUS00633,22,Female,East,Basic,32,26.57,729.27,17,6,4,9,32,0.78,Month-to-month,Credit card,2,0.6551,1
+CUS00634,38,Male,West,Standard,3,43.99,124.85,54,9,3,5,7,0.58,Month-to-month,PayPal,4,0.6286,1
+CUS00635,57,Female,North,Standard,24,53.6,1220.78,14,11,2,1,79,0.66,Month-to-month,Credit card,0,0.8443,1
+CUS00636,50,Non-binary,East,Basic,71,25.76,1649.38,16,1,5,7,5,0.6,One year,Credit card,0,0.175,0
+CUS00637,54,Female,North,Premium,10,82.28,834.76,26,2,6,3,18,0.02,One year,PayPal,3,0.6732,1
+CUS00638,40,Non-binary,North,Basic,48,15.67,643.18,38,4,5,7,65,0.78,One year,Bank transfer,3,0.1601,0
+CUS00639,59,Male,South,Standard,11,58.76,622.5,36,11,8,10,53,0.54,Month-to-month,Credit card,4,0.7798,1
+CUS00640,50,Female,East,Basic,38,28.67,1139.02,14,8,5,10,14,0.69,Two year,Check,2,0.3013,0
+CUS00641,27,Female,Central,Premium,10,96.31,905.12,26,4,2,7,31,0.78,Two year,Bank transfer,4,0.6479,1
+CUS00642,42,Male,North,Standard,54,34.45,1909.2,12,15,2,6,1,0.17,Two year,PayPal,4,0.1914,0
+CUS00643,52,Non-binary,North,Basic,5,27.51,118.93,32,14,8,5,54,0.35,Two year,Bank transfer,2,0.6183,1
+CUS00644,43,Non-binary,Central,Premium,14,104.32,1345.09,28,15,6,9,57,0.74,Two year,PayPal,3,0.7431,1
+CUS00645,30,Non-binary,South,Premium,66,95.61,5830.52,41,8,6,4,56,0.18,One year,Credit card,1,0.1322,0
+CUS00646,58,Non-binary,Central,Premium,66,79.37,4786.43,11,3,0,10,26,0.43,One year,PayPal,0,0.2358,0
+CUS00647,44,Female,South,Basic,37,19.11,641.8,58,5,1,2,85,0.28,Month-to-month,Bank transfer,4,0.6717,1
+CUS00648,23,Non-binary,North,Premium,69,109.95,6487.68,13,5,6,10,56,0.52,Two year,PayPal,0,0.1943,0
+CUS00649,29,Female,West,Standard,34,34.1,1140.55,22,13,1,10,28,0.73,One year,Bank transfer,4,0.1811,0
+CUS00650,54,Non-binary,North,Standard,5,57.97,264.78,53,9,0,9,80,0.01,Month-to-month,Check,1,0.8309,1
+CUS00651,65,Male,East,Standard,20,35.61,624.14,40,15,1,7,27,0.0,Month-to-month,Check,4,0.4182,0
+CUS00652,24,Female,East,Premium,49,80.92,3790.98,11,15,4,2,37,0.67,Two year,Check,4,0.2129,0
+CUS00653,44,Non-binary,West,Standard,13,58.89,767.7,26,8,5,2,84,0.42,Month-to-month,Check,2,0.8701,1
+CUS00654,47,Non-binary,South,Standard,63,50.62,2881.59,13,15,6,,71,0.77,One year,PayPal,3,0.1811,0
+CUS00655,47,Female,West,Standard,34,38.05,1187.58,52,1,4,6,52,0.22,Month-to-month,Bank transfer,0,0.6601,1
+CUS00656,43,Male,Central,Premium,3,82.75,249.76,21,15,5,7,8,0.65,Month-to-month,PayPal,4,0.8239,1
+CUS00657,34,Male,Central,Standard,30,34.84,974.84,35,12,3,,4,0.85,Month-to-month,Check,3,0.5867,1
+CUS00658,23,Male,South,Basic,35,26.25,854.58,52,12,4,0,9,0.07,Two year,Credit card,0,0.0739,0
+CUS00659,56,Non-binary,South,Basic,51,17.91,835.54,32,12,0,3,35,0.46,Month-to-month,PayPal,4,0.334,0
+CUS00660,27,Male,West,Premium,36,91.99,2976.91,1,8,6,4,69,0.71,Two year,Bank transfer,4,0.7179,1
+CUS00661,23,Female,South,Standard,48,33.27,1403.34,40,2,1,7,21,0.21,Two year,Bank transfer,0,0.1315,0
+CUS00662,52,Non-binary,Central,Basic,8,26.51,194.6,9,1,5,10,72,0.6,Month-to-month,PayPal,1,0.9559,1
+CUS00663,57,Female,Central,Standard,41,37.07,1438.71,35,14,1,0,54,0.7,Two year,Bank transfer,0,0.1515,0
+CUS00664,32,Male,West,Basic,5,28.28,135.03,8,12,8,5,51,0.01,Month-to-month,Check,2,0.9485,1
+CUS00665,65,Female,Central,Standard,48,34.98,1657.22,51,10,5,7,77,0.25,Two year,Bank transfer,2,0.2167,0
+CUS00666,30,Male,Central,Standard,2,35.38,74.2,0,5,3,2,88,0.09,Two year,PayPal,0,0.6329,1
+CUS00667,25,Non-binary,West,Premium,21,113.0,2180.77,0,15,3,3,36,0.82,Two year,PayPal,2,0.5743,1
+CUS00668,38,Non-binary,Central,Basic,10,23.89,211.59,36,2,2,7,75,0.64,Two year,PayPal,4,0.4675,0
+CUS00669,59,Non-binary,East,Premium,61,73.91,4027.4,59,13,2,1,21,0.48,Month-to-month,PayPal,0,0.1609,0
+CUS00670,54,Female,West,Standard,42,52.8,2059.37,49,7,7,4,39,0.84,One year,Credit card,4,0.2053,0
+CUS00671,35,Male,East,Basic,56,23.41,1294.01,35,15,6,9,44,0.18,One year,Check,2,0.0929,0
+CUS00672,57,Male,West,Standard,23,59.86,1269.66,12,1,4,4,12,0.91,One year,Credit card,4,0.5333,1
+CUS00673,39,Male,East,Standard,51,50.86,2529.15,36,14,0,10,60,1.0,Two year,Check,1,0.0453,0
+CUS00674,56,Male,North,Standard,4,51.4,182.03,54,3,1,5,15,0.06,Month-to-month,PayPal,0,0.6676,1
+CUS00675,56,Female,South,Premium,3,113.98,352.04,10,15,5,7,1,0.94,Two year,Check,0,0.7697,1
+CUS00676,54,Male,East,Basic,23,21.65,473.6,11,11,0,3,35,0.56,Month-to-month,PayPal,3,0.8225,1
+CUS00677,58,Non-binary,North,Premium,60,70.95,3692.03,20,10,0,1,1,0.22,One year,Check,0,0.1662,0
+CUS00678,41,Non-binary,South,Basic,40,15.8,554.95,20,7,3,2,34,0.88,Month-to-month,PayPal,2,0.3991,0
+CUS00679,50,Female,North,Standard,46,40.47,1749.8,40,11,2,,74,0.39,Month-to-month,Check,2,0.3868,0
+CUS00680,40,Male,East,Premium,71,65.45,4668.71,16,4,7,3,4,0.92,Month-to-month,Check,1,0.2825,0
+CUS00681,51,Non-binary,East,Standard,49,57.04,2434.19,22,14,0,1,53,0.48,One year,Credit card,1,0.2416,0
+CUS00682,51,Non-binary,South,Basic,57,27.14,1449.51,25,8,3,3,47,0.6,Two year,Check,2,0.136,0
+CUS00683,24,Male,Central,Basic,54,21.39,1118.81,10,9,2,3,76,0.97,Month-to-month,Bank transfer,1,0.5229,1
+CUS00684,25,Male,East,Basic,45,21.88,865.95,56,3,4,3,10,0.18,Month-to-month,Check,0,0.1498,0
+CUS00685,37,Male,Central,Standard,1,40.34,39.83,44,4,7,9,48,0.83,Month-to-month,Credit card,3,0.9049,1
+CUS00686,30,Female,East,Standard,55,46.02,2490.54,37,1,3,8,22,0.77,One year,PayPal,2,0.243,0
+CUS00687,54,Male,Central,Premium,51,68.28,3090.85,13,5,6,0,43,0.38,Month-to-month,Check,1,0.6474,1
+CUS00688,52,Male,East,Standard,23,50.47,1094.63,5,6,1,9,51,0.8,Month-to-month,Bank transfer,2,0.917,1
+CUS00689,30,Non-binary,Central,Standard,59,49.61,2735.25,3,5,6,3,81,0.12,Two year,PayPal,3,0.4144,0
+CUS00690,45,Male,South,Standard,69,56.11,3296.24,60,15,4,2,65,0.81,Two year,Check,0,0.0159,0
+CUS00691,51,Female,North,Basic,63,21.9,1274.65,27,6,4,,69,0.27,One year,PayPal,3,0.2647,0
+CUS00692,62,Male,Central,Basic,46,25.98,1057.7,34,2,2,10,18,0.63,Two year,PayPal,2,0.172,0
+CUS00693,51,Non-binary,Central,Basic,68,23.54,1372.87,38,12,1,5,65,0.98,Month-to-month,PayPal,2,0.2863,0
+CUS00694,38,Non-binary,North,Standard,15,47.13,687.94,34,14,3,10,6,0.37,Two year,Bank transfer,3,0.2597,0
+CUS00695,39,Non-binary,South,Standard,65,48.14,3084.17,17,1,6,2,2,0.78,Month-to-month,PayPal,2,0.3438,0
+CUS00696,62,Female,North,Basic,29,15.27,401.9,45,10,7,8,53,0.63,One year,Check,3,0.2409,0
+CUS00697,57,Male,East,Standard,41,43.33,1773.89,13,9,2,9,49,0.26,Month-to-month,Credit card,3,0.6434,1
+CUS00698,35,Non-binary,Central,Standard,39,39.46,1317.2,39,10,2,8,45,0.56,Two year,Credit card,2,0.1308,0
+CUS00699,57,Non-binary,West,Basic,49,28.82,1440.33,6,7,3,2,14,0.57,Month-to-month,Bank transfer,3,0.585,1
+CUS00700,35,Female,Central,Standard,41,48.91,1979.98,40,13,5,7,68,0.53,Month-to-month,Check,3,0.5705,1
+CUS00701,51,Female,West,Basic,23,21.0,484.25,41,3,1,5,74,0.65,Two year,Check,1,0.2019,0
+CUS00702,30,Non-binary,Central,Premium,11,116.73,1174.89,15,3,7,9,11,0.95,Month-to-month,Check,4,0.9289,1
+CUS00703,54,Male,South,Standard,48,37.18,1771.36,12,6,2,3,8,0.89,Month-to-month,Check,3,0.6165,1
+CUS00704,37,Male,West,Premium,15,112.33,1738.49,15,8,1,,4,0.68,Two year,Check,3,0.7606,1
+CUS00705,26,Female,East,Premium,16,119.35,1896.14,28,8,0,3,50,0.83,Month-to-month,PayPal,3,0.8996,1
+CUS00706,63,Female,West,Basic,14,17.19,240.83,7,12,2,4,52,0.66,Month-to-month,Bank transfer,3,0.7462,1
+CUS00707,35,Female,North,Standard,10,51.27,513.42,21,5,7,4,57,0.7,One year,Credit card,1,0.6438,1
+CUS00708,36,Female,Central,Standard,38,51.48,1782.03,45,8,4,1,88,0.13,One year,Check,2,0.3341,0
+CUS00709,62,Male,North,Basic,39,17.23,639.53,55,9,6,6,79,0.9,One year,Bank transfer,4,0.2254,0
+CUS00710,45,Female,West,Basic,68,22.23,1487.07,4,6,3,3,26,0.22,One year,Credit card,1,0.1158,0
+CUS00711,44,Female,West,Premium,2,106.99,204.31,14,12,3,4,85,0.03,Month-to-month,PayPal,4,0.9803,1
+CUS00712,56,Non-binary,Central,Basic,8,21.7,175.24,11,12,3,2,88,0.72,Month-to-month,Credit card,4,0.9324,1
+CUS00713,39,Non-binary,East,Basic,25,26.0,569.73,19,1,3,2,31,0.59,Two year,Check,0,0.1872,0
+CUS00714,42,Non-binary,North,Basic,62,16.75,995.38,13,10,7,3,72,0.01,Two year,Credit card,3,0.2033,0
+CUS00715,63,Male,Central,Premium,59,84.43,4503.9,40,3,5,7,61,0.51,One year,PayPal,4,0.2652,0
+CUS00716,57,Non-binary,East,Standard,15,58.37,800.11,32,8,7,1,22,0.07,Two year,PayPal,0,0.4399,0
+CUS00717,50,Female,Central,Basic,25,26.68,633.89,20,13,8,6,13,0.68,Month-to-month,Bank transfer,2,0.7785,1
+CUS00718,32,Male,Central,Basic,42,29.35,1242.25,49,12,4,2,33,0.47,One year,PayPal,1,0.1689,0
+CUS00719,41,Female,East,Standard,58,46.9,2315.26,60,7,0,5,45,0.65,Month-to-month,Check,2,0.4434,0
+CUS00720,35,Non-binary,East,Standard,48,42.82,1976.46,47,4,3,8,64,0.44,One year,Credit card,0,0.1373,0
+CUS00721,37,Male,East,Standard,61,58.4,3305.95,58,12,7,2,35,0.99,Two year,Credit card,0,0.08,0
+CUS00722,56,Female,West,Standard,15,56.43,884.91,46,7,2,1,75,0.3,Month-to-month,Credit card,3,0.8302,1
+CUS00723,37,Female,Central,Premium,34,101.37,3026.42,49,2,5,4,57,0.75,Month-to-month,Bank transfer,2,0.6599,1
+CUS00724,43,Male,East,Standard,3,49.27,149.47,51,1,8,,65,0.37,Two year,Credit card,4,0.6213,1
+CUS00725,42,Non-binary,West,Standard,43,52.03,2337.62,49,2,8,1,65,0.85,Month-to-month,Check,4,0.6813,1
+CUS00726,26,Non-binary,West,Standard,60,56.42,3317.8,4,3,5,6,67,0.78,Two year,Credit card,3,0.4049,0
+CUS00727,58,Female,North,Premium,50,85.63,3860.93,14,10,5,7,58,0.65,Month-to-month,PayPal,4,0.8661,1
+CUS00728,35,Female,South,Basic,4,23.0,80.54,22,2,5,4,29,0.66,Month-to-month,PayPal,1,0.9187,1
+CUS00729,49,Female,South,Basic,46,15.41,619.98,60,7,0,6,26,0.38,Two year,Check,3,0.0802,0
+CUS00730,59,Male,North,Basic,65,28.7,1867.96,7,8,5,10,40,0.42,Month-to-month,Credit card,4,0.8217,1
+CUS00731,45,Female,East,Premium,15,82.8,1160.03,54,2,5,4,39,0.84,Two year,PayPal,1,0.3626,0
+CUS00732,63,Female,West,Basic,36,25.94,952.03,11,10,0,1,66,0.16,Two year,Credit card,0,0.2826,0
+CUS00733,60,Male,East,Standard,54,42.58,2192.91,9,12,2,4,14,0.79,Month-to-month,Check,1,0.4231,0
+CUS00734,38,Non-binary,East,Basic,4,19.97,81.83,58,7,0,7,48,0.76,Month-to-month,Bank transfer,0,0.6957,1
+CUS00735,22,Female,South,Basic,54,29.82,1685.44,54,15,8,6,17,0.86,Month-to-month,PayPal,3,0.1178,0
+CUS00736,30,Female,Central,Standard,13,52.46,606.46,14,9,2,1,28,0.66,Month-to-month,Check,2,0.8647,1
+CUS00737,61,Male,South,Basic,33,17.77,612.68,42,10,8,7,73,0.99,One year,Bank transfer,2,0.1308,0
+CUS00738,59,Non-binary,North,Standard,7,59.39,406.14,53,13,3,1,50,0.32,Two year,Check,2,0.3785,0
+CUS00739,34,Non-binary,Central,Standard,58,43.6,2371.95,47,5,8,4,43,1.0,Month-to-month,PayPal,2,0.4812,0
+CUS00740,57,Female,North,Standard,67,53.46,3062.75,34,3,1,2,58,0.83,Month-to-month,PayPal,1,0.3358,0
+CUS00741,44,Female,West,Standard,71,32.49,2193.63,25,14,8,2,18,0.84,Month-to-month,Credit card,1,0.2444,0
+CUS00742,60,Male,Central,Premium,68,92.37,6210.43,33,3,5,1,12,0.68,Month-to-month,Bank transfer,4,0.4558,0
+CUS00743,61,Female,South,Standard,7,58.47,421.65,26,15,7,6,41,0.14,One year,Credit card,0,0.4047,0
+CUS00744,41,Male,Central,Premium,9,68.63,626.62,48,13,3,5,20,0.65,Two year,Bank transfer,1,0.2931,0
+CUS00745,44,Male,South,Standard,18,33.7,630.18,9,4,7,1,86,0.28,One year,Credit card,0,0.4255,0
+CUS00746,62,Non-binary,West,Basic,57,19.48,1044.71,4,15,5,3,5,0.38,One year,Credit card,3,0.1456,0
+CUS00747,49,Non-binary,South,Standard,38,33.09,1220.53,38,14,5,2,85,0.49,Two year,Check,0,0.082,0
+CUS00748,39,Non-binary,East,Standard,66,50.01,3041.0,0,2,7,2,74,0.49,Two year,PayPal,0,0.2103,0
+CUS00749,53,Non-binary,Central,Premium,49,100.05,4208.36,6,10,1,8,12,0.12,Month-to-month,PayPal,4,0.6911,1
+CUS00750,48,Female,North,Standard,57,47.2,2792.74,52,13,6,9,3,0.22,Month-to-month,Credit card,2,0.1032,0
+CUS00751,28,Female,West,Basic,59,27.74,1503.78,15,5,7,,41,0.46,One year,Bank transfer,1,0.0992,0
+CUS00752,63,Female,West,Standard,23,55.7,1246.87,47,13,3,4,39,0.1,Month-to-month,Check,2,0.5039,1
+CUS00753,61,Female,South,Standard,26,51.22,1346.61,57,6,2,1,41,0.02,Month-to-month,PayPal,4,0.5811,1
+CUS00754,57,Non-binary,South,Standard,10,32.72,335.51,25,14,4,1,43,0.53,Two year,Bank transfer,3,0.2376,0
+CUS00755,28,Non-binary,East,Premium,11,109.57,1083.76,9,11,4,,63,0.22,Month-to-month,Bank transfer,1,0.8619,1
+CUS00756,31,Male,East,Basic,3,27.86,80.34,36,4,6,1,66,0.58,Two year,PayPal,2,0.6275,1
+CUS00757,38,Female,East,Standard,31,40.71,1106.65,55,14,3,7,74,0.13,Two year,PayPal,0,0.134,0
+CUS00758,44,Non-binary,Central,Basic,60,19.04,1071.08,37,7,1,1,2,0.56,Month-to-month,PayPal,3,0.1815,0
+CUS00759,31,Male,East,Basic,36,23.55,841.63,31,7,2,5,27,0.66,One year,PayPal,2,0.2073,0
+CUS00760,54,Female,South,Premium,41,63.18,2592.69,37,2,1,8,8,0.53,Month-to-month,Bank transfer,1,0.6644,1
+CUS00761,60,Male,South,Basic,64,25.93,1544.53,44,11,6,5,48,0.7,Month-to-month,PayPal,1,0.3739,0
+CUS00762,49,Female,West,Basic,24,18.91,444.51,5,6,7,0,67,0.26,Month-to-month,Credit card,2,0.9023,1
+CUS00763,28,Male,North,Premium,2,61.66,127.15,36,6,1,1,24,0.64,Two year,Bank transfer,4,0.4413,0
+CUS00764,65,Male,Central,Standard,23,51.19,1042.56,9,14,7,,79,0.04,Month-to-month,PayPal,2,0.9157,1
+CUS00765,28,Female,South,Premium,67,71.59,4225.99,39,15,5,6,84,0.55,Two year,Check,0,0.0726,0
+CUS00766,37,Female,South,Basic,63,17.83,1160.72,58,8,1,7,11,0.66,One year,Check,4,0.0361,0
+CUS00767,63,Male,East,Standard,18,35.94,605.04,27,7,1,6,3,0.49,One year,Check,4,0.2209,0
+CUS00768,40,Non-binary,North,Premium,6,113.53,680.89,36,9,2,9,40,0.74,Month-to-month,Credit card,2,0.9182,1
+CUS00769,46,Male,East,Premium,7,86.03,573.11,54,3,8,4,87,0.7,Month-to-month,Credit card,3,0.9563,1
+CUS00770,42,Male,South,Standard,27,48.39,1210.24,57,12,1,3,0,0.9,One year,Bank transfer,3,0.0767,0
+CUS00771,36,Female,West,Basic,20,17.13,351.64,27,11,4,2,83,0.74,One year,Check,0,0.2187,0
+CUS00772,39,Male,West,Standard,2,41.86,78.68,42,12,3,0,81,0.11,Month-to-month,Check,0,0.7871,1
+CUS00773,33,Non-binary,East,Basic,33,29.33,877.84,18,5,4,0,15,0.39,Month-to-month,Credit card,4,0.8033,1
+CUS00774,55,Male,West,Standard,14,31.14,377.86,44,13,1,2,55,0.62,Two year,Bank transfer,3,0.1821,0
+CUS00775,60,Male,Central,Basic,27,25.87,615.05,55,5,2,4,59,0.2,Month-to-month,Check,3,0.6604,1
+CUS00776,26,Male,South,Basic,43,24.87,923.84,15,10,8,3,71,0.16,One year,Credit card,0,0.3608,0
+CUS00777,65,Male,West,Premium,69,103.44,6525.91,2,3,1,9,29,0.01,Month-to-month,Credit card,3,0.7856,1
+CUS00778,36,Non-binary,North,Premium,70,114.65,8325.99,41,7,4,9,78,0.39,Month-to-month,Check,4,0.6462,1
+CUS00779,38,Female,West,Standard,20,56.38,1023.15,46,3,6,3,20,0.37,Month-to-month,Check,2,0.7825,1
+CUS00780,56,Male,West,Basic,46,18.12,785.27,28,8,6,6,46,0.34,Two year,Bank transfer,4,0.3271,0
+CUS00781,35,Male,South,Basic,25,29.22,674.02,29,9,6,4,82,0.31,Two year,Bank transfer,3,0.5959,1
+CUS00782,41,Non-binary,West,Basic,26,18.26,440.04,33,7,2,6,3,0.69,Two year,Bank transfer,2,0.2523,0
+CUS00783,65,Non-binary,South,Standard,26,39.49,1024.37,48,15,7,4,78,0.93,Month-to-month,Credit card,0,0.5341,1
+CUS00784,25,Female,North,Standard,46,34.52,1616.72,23,10,5,8,57,0.48,Month-to-month,PayPal,2,0.6045,1
+CUS00785,28,Non-binary,South,Basic,21,21.23,393.07,35,11,7,10,35,0.69,Month-to-month,Credit card,1,0.6603,1
+CUS00786,24,Male,West,Standard,49,53.01,2721.01,23,15,7,8,73,0.18,Month-to-month,Check,4,0.6981,1
+CUS00787,44,Female,North,Standard,9,48.72,453.1,7,15,3,9,41,0.29,Month-to-month,PayPal,4,0.9344,1
+CUS00788,61,Non-binary,West,Basic,47,27.77,1245.26,58,1,7,4,21,0.05,Month-to-month,PayPal,2,0.3978,0
+CUS00789,50,Female,East,Basic,35,26.25,795.68,35,1,2,8,1,0.73,Month-to-month,PayPal,3,0.6434,1
+CUS00790,46,Male,East,Standard,43,45.38,1824.31,45,6,2,4,33,0.55,Two year,PayPal,2,0.2164,0
+CUS00791,27,Female,North,Standard,66,30.69,2030.43,15,2,2,4,8,0.15,Month-to-month,Credit card,0,0.3837,0
+CUS00792,43,Non-binary,North,Basic,59,24.47,1404.05,3,12,2,2,10,0.19,Month-to-month,Credit card,3,0.541,1
+CUS00793,65,Male,South,Basic,11,20.8,231.89,45,8,2,6,36,0.73,Month-to-month,Check,1,0.5554,1
+CUS00794,34,Female,South,Premium,25,64.55,1432.06,20,13,3,1,50,0.64,One year,Check,4,0.3778,0
+CUS00795,62,Female,South,Standard,33,52.06,1685.28,43,5,4,1,8,0.06,Two year,PayPal,0,0.0815,0
+CUS00796,27,Non-binary,West,Basic,12,19.78,234.9,38,11,1,8,33,0.73,One year,Check,2,0.14,0
+CUS00797,52,Female,West,Standard,63,59.97,3655.12,2,12,5,5,59,0.88,One year,Check,3,0.4424,0
+CUS00798,31,Male,West,Standard,4,53.65,219.76,9,7,5,,55,0.79,Month-to-month,Bank transfer,4,0.9222,1
+CUS00799,33,Male,North,Basic,51,22.08,1069.17,10,5,8,3,29,0.19,Two year,Check,3,0.3777,0
+CUS00800,64,Male,East,Basic,9,29.29,231.53,33,8,3,5,62,0.01,One year,Bank transfer,2,0.4182,0
+CUS00801,62,Female,Central,Standard,16,45.89,678.93,44,14,2,4,72,0.97,Month-to-month,Credit card,3,0.6481,1
+CUS00802,42,Non-binary,South,Standard,61,46.65,2607.22,12,15,2,4,80,0.57,Month-to-month,Bank transfer,1,0.6217,1
+CUS00803,53,Non-binary,West,Basic,41,22.66,905.57,5,9,7,6,77,0.9,One year,Credit card,3,0.4186,0
+CUS00804,39,Non-binary,South,Standard,8,36.7,270.47,39,8,8,1,34,0.96,Two year,PayPal,4,0.4734,0
+CUS00805,56,Male,South,Premium,16,113.09,1727.47,32,5,3,5,54,0.7,Month-to-month,PayPal,2,0.913,1
+CUS00806,23,Non-binary,West,Basic,48,21.97,1028.38,35,3,7,4,13,0.94,Two year,PayPal,1,0.1917,0
+CUS00807,60,Female,East,Basic,17,19.84,308.71,30,6,2,4,48,0.55,Two year,PayPal,3,0.4497,0
+CUS00808,24,Non-binary,East,Standard,6,31.68,166.58,4,15,1,1,19,0.1,Month-to-month,Bank transfer,0,0.8366,1
+CUS00809,45,Female,East,Basic,53,20.15,921.03,26,11,6,10,19,0.55,Month-to-month,Bank transfer,3,0.5797,1
+CUS00810,38,Male,South,Basic,72,15.36,1045.91,2,4,3,1,17,0.5,One year,Check,3,0.2975,0
+CUS00811,23,Non-binary,East,Standard,4,50.91,174.73,37,1,3,2,74,0.49,One year,Credit card,4,0.7572,1
+CUS00812,32,Female,South,Basic,69,15.11,941.59,23,9,6,1,25,0.75,One year,PayPal,1,0.0536,0
+CUS00813,42,Female,West,Basic,37,21.77,792.9,49,7,3,1,14,0.04,Month-to-month,Bank transfer,1,0.3694,0
+CUS00814,41,Non-binary,South,Premium,39,97.57,3665.84,56,14,4,2,65,0.02,Month-to-month,Bank transfer,1,0.3202,0
+CUS00815,43,Male,West,Standard,42,41.72,1812.1,30,9,4,9,31,0.08,Month-to-month,Credit card,0,0.3041,0
+CUS00816,39,Male,East,Standard,49,58.84,2662.92,41,4,6,10,47,0.08,Two year,Credit card,2,0.1318,0
+CUS00817,24,Male,East,Basic,34,21.85,767.35,7,15,0,6,22,0.01,Month-to-month,Bank transfer,3,0.7459,1
+CUS00818,57,Female,East,Basic,62,15.95,919.19,24,1,0,6,55,0.83,Two year,Bank transfer,0,0.0801,0
+CUS00819,58,Male,North,Standard,37,36.08,1313.93,55,4,3,10,57,0.81,Month-to-month,Check,4,0.691,1
+CUS00820,36,Non-binary,North,Standard,47,41.02,1848.74,23,11,5,10,70,0.54,One year,PayPal,3,0.2403,0
+CUS00821,33,Non-binary,West,Standard,60,53.02,3131.99,56,8,8,5,46,0.96,Month-to-month,PayPal,1,0.2842,0
+CUS00822,51,Female,Central,Basic,6,20.15,106.27,21,9,2,8,17,0.98,Month-to-month,Check,0,0.7862,1
+CUS00823,48,Male,Central,Premium,6,75.28,433.65,60,3,3,9,90,0.79,Two year,Credit card,2,0.3999,0
+CUS00824,57,Female,Central,Standard,29,52.49,1594.65,14,11,7,1,88,0.9,Month-to-month,Credit card,4,0.7829,1
+CUS00825,28,Female,South,Basic,40,18.63,714.19,6,14,3,,2,0.03,Month-to-month,Bank transfer,1,0.6075,1
+CUS00826,26,Female,West,Basic,55,29.17,1555.44,21,7,5,2,38,0.43,Two year,Credit card,3,0.132,0
+CUS00827,24,Female,East,Standard,4,44.21,176.94,49,2,6,10,75,0.62,One year,Check,0,0.2226,0
+CUS00828,27,Female,East,Premium,12,102.94,1277.85,29,7,5,2,77,0.98,Month-to-month,PayPal,2,0.9653,1
+CUS00829,57,Non-binary,West,Basic,53,16.42,857.25,1,15,8,6,8,0.5,Two year,PayPal,4,0.1081,0
+CUS00830,63,Non-binary,North,Standard,16,44.73,650.32,10,1,4,8,42,0.43,Month-to-month,Credit card,1,0.9388,1
+CUS00831,52,Female,South,Basic,50,26.64,1337.98,2,5,2,2,43,0.87,Two year,Bank transfer,3,0.4798,0
+CUS00832,29,Male,South,Basic,17,26.11,416.18,23,13,6,,90,0.53,One year,Credit card,3,0.2549,0
+CUS00833,52,Male,East,Standard,72,32.01,2363.62,42,6,7,5,64,0.92,Month-to-month,Credit card,0,0.3501,0
+CUS00834,64,Male,West,Premium,48,118.25,5569.59,37,7,1,7,5,0.23,Month-to-month,PayPal,1,0.7227,1
+CUS00835,47,Male,East,Basic,66,26.82,1711.91,0,5,2,4,31,0.86,Month-to-month,Bank transfer,3,0.5751,1
+CUS00836,33,Female,Central,Premium,10,90.59,926.04,4,8,8,0,72,0.16,Two year,PayPal,1,0.7736,1
+CUS00837,38,Female,North,Standard,6,53.42,315.5,59,6,6,6,77,0.84,Month-to-month,Bank transfer,3,0.6932,1
+CUS00838,48,Non-binary,South,Basic,67,19.31,1107.7,4,9,1,10,18,0.77,Month-to-month,PayPal,2,0.3191,0
+CUS00839,47,Female,West,Standard,39,48.16,1917.83,30,9,7,5,88,0.59,Month-to-month,Check,2,0.8307,1
+CUS00840,43,Non-binary,Central,Premium,9,76.28,623.22,32,4,5,4,30,0.57,One year,PayPal,1,0.5148,1
+CUS00841,43,Non-binary,West,Standard,34,50.09,1656.41,50,3,4,2,87,0.69,One year,Bank transfer,3,0.2775,0
+CUS00842,40,Non-binary,South,Basic,44,17.75,702.22,30,12,4,8,58,0.54,Month-to-month,PayPal,4,0.5556,1
+CUS00843,26,Female,North,Standard,71,30.1,2215.8,59,8,7,7,74,0.82,Two year,Bank transfer,2,0.085,0
+CUS00844,53,Non-binary,North,Standard,56,33.58,1734.3,51,1,0,0,35,0.11,One year,Bank transfer,0,0.071,0
+CUS00845,65,Female,South,Basic,8,15.15,109.74,27,4,3,2,79,0.6,One year,PayPal,1,0.5697,1
+CUS00846,42,Male,South,Standard,27,30.52,794.58,39,5,7,0,12,0.25,Two year,Bank transfer,1,0.2589,0
+CUS00847,51,Non-binary,South,Basic,29,19.19,521.47,55,10,6,6,27,0.23,Month-to-month,Check,3,0.2803,0
+CUS00848,46,Non-binary,West,Basic,70,26.48,1737.43,56,9,5,4,2,0.5,Two year,Check,4,0.0578,0
+CUS00849,35,Female,South,Basic,49,17.53,790.81,17,4,4,2,48,0.6,Two year,Credit card,4,0.3185,0
+CUS00850,50,Non-binary,North,Standard,45,30.61,1293.52,27,2,6,3,44,0.23,One year,PayPal,3,0.439,0
+CUS00851,32,Male,South,Premium,67,110.75,7760.34,23,1,3,0,90,0.92,Month-to-month,Credit card,2,0.9244,1
+CUS00852,50,Male,East,Basic,56,19.18,979.9,33,2,3,0,79,0.05,Month-to-month,PayPal,4,0.7645,1
+CUS00853,52,Female,South,Basic,3,27.12,70.25,6,5,2,7,15,0.78,One year,Bank transfer,1,0.472,0
+CUS00854,22,Female,South,Standard,66,45.03,2760.26,10,1,7,1,16,0.24,One year,PayPal,3,0.2485,0
+CUS00855,37,Female,South,Basic,32,17.43,583.74,8,1,4,6,67,0.8,Two year,Check,4,0.4067,0
+CUS00856,55,Female,Central,Premium,52,84.46,4175.09,31,3,0,2,9,0.6,One year,PayPal,0,0.1531,0
+CUS00857,60,Female,West,Standard,39,39.44,1312.37,27,13,2,6,75,0.79,Month-to-month,PayPal,3,0.6552,1
+CUS00858,36,Female,East,Standard,52,43.96,2154.85,26,1,3,1,81,0.92,One year,PayPal,0,0.2709,0
+CUS00859,44,Female,West,Standard,10,40.64,384.22,59,14,7,0,45,0.33,One year,Bank transfer,0,0.1905,0
+CUS00860,57,Female,North,Basic,66,18.28,1122.85,51,10,7,4,79,0.33,One year,Credit card,4,0.1008,0
+CUS00861,59,Male,West,Standard,56,31.08,1733.05,36,9,1,1,48,0.33,Two year,PayPal,1,0.1515,0
+CUS00862,27,Non-binary,West,Standard,51,31.32,1400.19,26,10,3,5,19,0.43,One year,Bank transfer,0,0.1812,0
+CUS00863,26,Male,North,Standard,62,36.57,2002.34,43,8,1,0,85,0.46,One year,PayPal,3,0.167,0
+CUS00864,57,Non-binary,East,Standard,68,50.46,3273.47,17,13,3,2,2,0.43,One year,PayPal,4,0.1133,0
+CUS00865,41,Female,West,Basic,39,27.03,1013.06,54,13,3,2,59,0.91,Month-to-month,PayPal,3,0.4344,0
+CUS00866,43,Female,North,Basic,21,24.35,513.9,59,15,0,5,51,0.82,Month-to-month,Check,3,0.3266,0
+CUS00867,23,Female,East,Basic,40,18.54,772.49,37,4,6,5,30,0.29,Month-to-month,PayPal,1,0.3783,0
+CUS00868,27,Male,North,Basic,2,17.25,35.77,50,13,2,,0,0.47,Month-to-month,Bank transfer,2,0.408,0
+CUS00869,45,Non-binary,East,Premium,12,79.81,821.52,37,2,0,8,0,0.82,Month-to-month,Bank transfer,3,0.808,1
+CUS00870,39,Non-binary,East,Premium,68,68.32,4378.48,54,5,2,9,89,0.51,Two year,Bank transfer,2,0.0577,0
+CUS00871,24,Female,East,Basic,61,27.15,1504.99,45,14,6,5,30,0.79,One year,PayPal,1,0.0557,0
+CUS00872,31,Male,North,Basic,16,17.22,274.02,18,13,5,10,40,0.58,Two year,Check,3,0.4521,0
+CUS00873,29,Non-binary,Central,Premium,39,88.39,2953.46,10,7,3,4,8,0.05,One year,Check,1,0.3802,0
+CUS00874,47,Non-binary,East,Standard,18,52.36,925.21,58,13,2,,21,0.95,Two year,Credit card,3,0.1036,0
+CUS00875,43,Male,North,Basic,31,22.69,626.33,11,7,0,,80,0.36,One year,PayPal,2,0.5788,1
+CUS00876,54,Male,South,Basic,43,25.21,980.71,25,15,8,8,78,0.93,Month-to-month,Check,0,0.5803,1
+CUS00877,51,Non-binary,Central,Premium,38,62.67,2182.66,26,10,1,6,53,0.93,Month-to-month,PayPal,4,0.6835,1
+CUS00878,63,Male,South,Premium,33,73.75,2176.65,52,8,3,5,0,0.43,Month-to-month,PayPal,4,0.5821,1
+CUS00879,56,Female,North,Premium,40,89.8,3470.0,34,11,8,3,14,0.86,Two year,PayPal,1,0.1564,0
+CUS00880,65,Female,North,Standard,32,30.62,979.72,16,3,4,9,32,0.42,Two year,Bank transfer,1,0.2807,0
+CUS00881,45,Male,East,Standard,70,49.17,3032.71,7,14,0,2,8,0.78,One year,Bank transfer,0,0.0829,0
+CUS00882,54,Non-binary,West,Premium,16,107.13,1579.1,5,6,2,5,24,0.55,One year,Credit card,4,0.6639,1
+CUS00883,27,Male,South,Basic,44,17.41,724.47,59,13,5,,43,0.85,Two year,Credit card,4,0.0928,0
+CUS00884,32,Male,Central,Standard,9,52.34,488.38,49,8,8,6,49,0.32,One year,Bank transfer,0,0.2169,0
+CUS00885,24,Female,South,Basic,46,15.26,644.22,47,14,0,4,59,0.09,Month-to-month,Credit card,4,0.4723,0
+CUS00886,57,Non-binary,East,Basic,5,26.79,128.25,27,5,0,0,7,0.94,Month-to-month,PayPal,3,0.8564,1
+CUS00887,31,Female,East,Standard,10,40.91,408.17,26,1,0,3,41,0.18,Month-to-month,Bank transfer,4,0.7537,1
+CUS00888,45,Male,North,Standard,43,33.71,1400.89,5,4,0,3,39,0.84,Month-to-month,PayPal,4,0.6538,1
+CUS00889,64,Female,North,Standard,6,56.34,309.87,47,1,2,0,12,0.95,Month-to-month,Credit card,3,0.9016,1
+CUS00890,47,Non-binary,North,Standard,21,46.84,852.23,10,3,1,9,2,0.47,Month-to-month,Bank transfer,4,0.8762,1
+CUS00891,37,Female,North,Premium,35,110.51,3668.77,15,1,6,2,78,0.67,Month-to-month,PayPal,2,0.9725,1
+CUS00892,48,Non-binary,East,Standard,32,56.69,1634.49,38,8,0,0,51,0.59,One year,Bank transfer,4,0.5652,1
+CUS00893,33,Non-binary,Central,Basic,32,16.99,543.12,46,2,6,1,27,0.28,Month-to-month,Credit card,1,0.4669,0
+CUS00894,22,Female,North,Standard,27,34.41,812.61,23,6,6,5,84,0.52,One year,Check,1,0.2136,0
+CUS00895,62,Male,South,Standard,46,49.98,2065.85,31,5,6,,32,0.0,Two year,Bank transfer,0,0.2117,0
+CUS00896,51,Non-binary,East,Basic,53,16.66,781.8,49,1,7,7,8,0.59,One year,PayPal,1,0.0324,0
+CUS00897,50,Male,East,Standard,50,44.41,1946.71,49,4,7,5,28,0.99,Month-to-month,Credit card,2,0.418,0
+CUS00898,28,Female,Central,Standard,52,47.01,2195.78,18,5,3,9,71,0.86,Month-to-month,Check,4,0.6508,1
+CUS00899,22,Male,North,Standard,71,40.24,2535.55,46,5,6,3,89,0.8,Month-to-month,Check,4,0.3879,0
+CUS00900,46,Female,Central,Basic,32,19.87,636.98,34,6,7,2,55,0.96,Month-to-month,Credit card,0,0.5647,1
+CUS00901,58,Male,South,Standard,6,42.37,219.78,43,9,7,10,17,0.22,Month-to-month,Bank transfer,2,0.7673,1
+CUS00902,59,Female,North,Standard,58,32.8,1849.81,5,13,4,8,68,0.75,Month-to-month,Credit card,3,0.6955,1
+CUS00903,39,Non-binary,South,Basic,63,27.26,1573.38,5,9,3,8,35,0.0,One year,PayPal,3,0.1816,0
+CUS00904,28,Non-binary,Central,Basic,36,17.89,553.26,11,4,3,2,16,0.29,Month-to-month,Check,1,0.6397,1
+CUS00905,61,Male,North,Basic,27,20.5,562.88,27,3,1,1,60,0.38,Month-to-month,PayPal,0,0.5092,1
+CUS00906,48,Male,North,Basic,28,16.1,446.26,10,5,8,10,71,0.88,One year,Check,1,0.4392,0
+CUS00907,60,Non-binary,Central,Basic,58,21.37,1122.75,16,10,3,10,2,0.2,One year,Check,4,0.1228,0
+CUS00908,59,Male,South,Basic,30,26.06,752.1,25,15,2,,66,0.18,Month-to-month,Bank transfer,1,0.6362,1
+CUS00909,25,Non-binary,Central,Premium,10,80.35,769.36,16,5,5,7,17,0.83,Month-to-month,Check,3,0.9086,1
+CUS00910,36,Non-binary,North,Premium,19,103.26,1882.18,47,13,5,6,21,0.68,One year,Credit card,0,0.1933,0
+CUS00911,22,Male,North,Basic,11,19.84,211.07,5,12,3,6,12,0.44,One year,Credit card,4,0.5592,1
+CUS00912,44,Female,West,Basic,65,24.68,1390.85,52,3,8,6,36,0.49,Month-to-month,Bank transfer,1,0.3121,0
+CUS00913,40,Non-binary,Central,Basic,41,20.69,725.5,38,1,0,9,33,0.89,Two year,PayPal,2,0.29,0
+CUS00914,39,Non-binary,South,Standard,49,37.07,1641.84,14,6,5,9,6,0.37,Month-to-month,Check,0,0.6072,1
+CUS00915,57,Non-binary,North,Standard,7,37.21,253.4,29,10,5,,79,0.78,Month-to-month,Bank transfer,0,0.8993,1
+CUS00916,29,Female,East,Premium,16,104.31,1505.94,46,5,2,7,60,0.5,Month-to-month,Bank transfer,3,0.8948,1
+CUS00917,34,Non-binary,North,Standard,35,50.19,1633.71,43,5,2,7,73,0.65,One year,Check,2,0.3157,0
+CUS00918,48,Non-binary,South,Standard,68,33.12,2027.78,29,14,0,5,37,0.95,Two year,Bank transfer,2,0.0784,0
+CUS00919,45,Female,North,Basic,52,26.83,1337.53,11,5,3,10,2,0.67,Two year,Check,2,0.1535,0
+CUS00920,40,Non-binary,Central,Premium,65,73.55,4167.82,15,9,8,7,22,0.83,One year,PayPal,1,0.1863,0
+CUS00921,51,Non-binary,North,Standard,5,49.17,223.3,13,15,3,2,45,0.19,One year,PayPal,0,0.3738,0
+CUS00922,31,Male,North,Basic,59,22.89,1294.97,38,4,3,8,11,0.63,Month-to-month,Check,1,0.3648,0
+CUS00923,30,Female,East,Basic,6,28.24,176.43,58,13,8,6,41,0.99,Month-to-month,Check,4,0.7976,1
+CUS00924,55,Male,North,Basic,27,27.31,642.51,49,7,1,7,16,0.84,Month-to-month,Bank transfer,3,0.3523,0
+CUS00925,43,Female,West,Standard,37,47.88,1827.52,58,1,3,5,47,0.61,One year,Bank transfer,0,0.2229,0
+CUS00926,29,Non-binary,Central,Standard,14,36.78,486.84,53,1,2,5,24,0.17,Month-to-month,Bank transfer,4,0.752,1
+CUS00927,60,Non-binary,South,Basic,31,21.77,586.09,59,1,4,1,66,0.54,Month-to-month,PayPal,0,0.5212,1
+CUS00928,53,Female,West,Standard,6,32.88,184.52,54,1,0,2,7,0.52,Month-to-month,PayPal,3,0.5202,1
+CUS00929,47,Non-binary,North,Basic,50,17.31,864.66,6,3,3,3,43,0.36,Two year,Bank transfer,3,0.2311,0
+CUS00930,53,Female,Central,Basic,27,29.76,837.77,7,4,4,7,0,0.79,Two year,Bank transfer,2,0.3505,0
+CUS00931,41,Male,West,Premium,68,74.02,4655.16,46,2,0,0,85,0.37,Month-to-month,Credit card,4,0.4193,0
+CUS00932,26,Female,East,Premium,24,87.19,1885.5,51,3,6,8,90,0.57,Two year,Check,2,0.5643,1
+CUS00933,57,Non-binary,Central,Premium,59,68.71,4081.08,37,7,3,1,42,0.57,One year,Credit card,4,0.2275,0
+CUS00934,34,Male,South,Basic,24,27.59,666.2,49,7,6,8,71,0.96,Month-to-month,Check,4,0.6547,1
+CUS00935,23,Non-binary,West,Basic,51,24.6,1290.13,41,8,2,10,27,0.31,Month-to-month,Bank transfer,2,0.3006,0
+CUS00936,45,Non-binary,South,Premium,18,61.05,1114.01,18,14,0,4,52,0.89,Month-to-month,Bank transfer,4,0.6605,1
+CUS00937,61,Female,East,Basic,71,27.07,1927.01,34,11,2,5,84,0.27,Two year,Check,2,0.0911,0
+CUS00938,35,Male,Central,Standard,55,54.92,3030.56,51,9,5,8,43,0.98,Month-to-month,PayPal,1,0.3907,0
+CUS00939,39,Female,Central,Basic,31,23.81,667.53,57,1,0,1,61,0.75,Month-to-month,Credit card,4,0.5101,1
+CUS00940,46,Male,North,Basic,50,22.56,1142.51,21,14,0,,8,0.38,Month-to-month,PayPal,0,0.3546,0
+CUS00941,40,Non-binary,Central,Basic,42,15.81,648.02,12,14,7,9,52,0.63,Month-to-month,PayPal,1,0.547,1
+CUS00942,53,Female,West,Premium,37,116.58,4430.3,46,7,6,9,16,0.6,One year,Credit card,4,0.3079,0
+CUS00943,27,Non-binary,West,Standard,50,59.46,3081.51,4,13,4,,50,0.94,One year,Credit card,1,0.3553,0
+CUS00944,27,Male,East,Standard,22,57.47,1192.83,59,2,7,,26,0.85,Month-to-month,Credit card,0,0.707,1
+CUS00945,60,Male,North,Standard,15,42.66,669.28,20,3,7,6,69,0.57,One year,Check,0,0.5799,1
+CUS00946,64,Non-binary,East,Standard,34,51.78,1700.24,3,3,6,3,65,0.04,Month-to-month,Check,2,0.9354,1
+CUS00947,40,Male,South,Standard,27,54.96,1419.87,59,3,7,10,63,0.67,Month-to-month,Bank transfer,0,0.6846,1
+CUS00948,27,Female,Central,Premium,24,91.17,2285.97,10,10,8,4,62,0.78,Two year,Bank transfer,3,0.6725,1
+CUS00949,36,Non-binary,South,Basic,66,17.66,997.52,14,10,7,10,2,0.49,Two year,Check,0,0.0395,0
+CUS00950,47,Female,South,Standard,67,34.4,2127.37,0,7,8,1,10,0.66,Month-to-month,Bank transfer,1,0.5796,1
+CUS00951,62,Female,East,Basic,12,29.88,305.84,21,9,7,0,87,0.26,Month-to-month,Credit card,4,0.8487,1
+CUS00952,26,Non-binary,South,Standard,51,52.65,2581.79,34,13,4,2,55,0.62,One year,Credit card,1,0.0604,0
+CUS00953,30,Male,East,Basic,30,24.93,725.2,44,5,8,3,82,0.13,One year,Credit card,0,0.2412,0
+CUS00954,56,Non-binary,West,Basic,57,16.37,894.64,28,7,7,2,69,0.77,Month-to-month,Credit card,4,0.7376,1
+CUS00955,50,Female,West,Basic,9,25.79,225.63,31,7,8,1,79,0.57,Two year,Check,1,0.5406,1
+CUS00956,55,Non-binary,South,Standard,5,45.96,195.36,41,3,3,4,6,0.7,Month-to-month,PayPal,3,0.7299,1
+CUS00957,46,Non-binary,Central,Standard,59,30.92,1652.65,34,3,5,4,34,0.25,Two year,Check,4,0.1303,0
+CUS00958,61,Female,South,Basic,18,25.25,458.09,53,14,3,2,69,0.96,Month-to-month,PayPal,3,0.6468,1
+CUS00959,32,Female,North,Standard,24,40.14,911.97,58,6,6,1,73,0.17,Month-to-month,Bank transfer,2,0.4148,0
+CUS00960,45,Male,South,Premium,14,81.95,1193.57,31,9,4,5,71,0.32,One year,Check,2,0.4618,0
+CUS00961,38,Male,North,Basic,40,24.42,930.36,36,2,1,6,76,0.48,Month-to-month,Bank transfer,4,0.7743,1
+CUS00962,37,Female,North,Basic,47,18.15,802.49,20,14,5,2,13,0.22,Month-to-month,PayPal,4,0.4237,0
+CUS00963,35,Female,West,Premium,13,111.09,1240.77,39,5,2,10,82,0.8,One year,Credit card,0,0.5898,1
+CUS00964,46,Non-binary,Central,Basic,68,22.09,1316.35,30,1,4,4,16,0.24,One year,Check,1,0.07,0
+CUS00965,30,Female,Central,Standard,54,39.73,2040.91,50,13,7,7,56,0.28,Month-to-month,Bank transfer,3,0.3434,0
+CUS00966,64,Female,Central,Standard,55,53.9,2942.37,39,5,2,7,16,0.3,Month-to-month,Credit card,3,0.337,0
+CUS00967,43,Male,South,Basic,6,15.64,84.07,41,15,3,0,30,0.13,Month-to-month,PayPal,2,0.6037,1
+CUS00968,43,Female,North,Premium,27,104.29,2777.53,18,5,4,7,67,0.62,Two year,Check,1,0.6197,1
+CUS00969,53,Non-binary,South,Standard,58,53.66,2827.61,26,3,0,1,46,0.85,Month-to-month,PayPal,2,0.6645,1
+CUS00970,55,Male,South,Premium,14,63.77,794.61,9,15,0,9,39,0.62,Month-to-month,Check,0,0.8953,1
+CUS00971,27,Non-binary,South,Standard,34,36.12,1128.61,34,3,7,5,66,0.71,Two year,Bank transfer,1,0.3977,0
+CUS00972,42,Female,East,Premium,35,111.76,4061.91,20,3,1,7,85,0.74,Two year,Bank transfer,0,0.4972,0
+CUS00973,47,Male,Central,Basic,57,29.41,1578.19,13,4,7,10,27,0.93,Month-to-month,Credit card,2,0.6811,1
+CUS00974,58,Non-binary,South,Standard,22,51.98,1122.35,37,2,4,2,70,0.55,Month-to-month,Bank transfer,2,0.8574,1
+CUS00975,63,Female,South,Premium,70,78.48,5128.69,31,12,7,10,63,0.22,Two year,PayPal,1,0.199,0
+CUS00976,38,Female,Central,Standard,15,43.4,665.4,28,1,2,8,22,0.44,Month-to-month,Credit card,2,0.7495,1
+CUS00977,37,Non-binary,Central,Standard,68,51.56,3476.57,52,6,2,8,71,0.95,Month-to-month,Bank transfer,1,0.5024,1
+CUS00978,28,Male,East,Standard,7,35.2,222.51,35,8,7,7,64,0.51,Two year,PayPal,1,0.4367,0
+CUS00979,45,Non-binary,Central,Standard,24,46.05,1115.96,59,13,0,2,2,0.28,One year,Bank transfer,3,0.0568,0
+CUS00980,58,Female,North,Standard,9,56.15,517.68,36,15,1,,19,0.64,Month-to-month,PayPal,0,0.432,0
+CUS00981,27,Female,South,Standard,36,52.05,1822.11,12,15,0,8,53,0.99,Month-to-month,Bank transfer,4,0.6215,1
+CUS00982,29,Male,West,Basic,20,25.98,531.73,59,12,7,5,59,0.75,Month-to-month,Credit card,0,0.4801,0
+CUS00983,60,Non-binary,North,Basic,15,20.74,267.04,39,12,0,6,17,0.72,Two year,Bank transfer,1,0.2798,0
+CUS00984,35,Male,East,Premium,25,92.17,2262.93,29,11,4,7,13,0.15,One year,Bank transfer,0,0.1961,0
+CUS00985,27,Female,North,Premium,51,80.23,3485.12,42,6,2,1,76,0.29,Month-to-month,Credit card,4,0.7292,1
+CUS00986,44,Non-binary,West,Basic,1,27.08,26.25,8,13,7,,12,0.23,Two year,Credit card,1,0.7069,1
+CUS00987,39,Male,West,Standard,71,41.0,3012.31,13,14,0,3,9,0.89,Month-to-month,Credit card,1,0.5477,1
+CUS00988,49,Male,East,Premium,21,76.68,1422.31,39,1,7,10,10,0.43,Month-to-month,Check,1,0.6989,1
+CUS00989,30,Male,East,Premium,14,111.84,1590.11,43,11,0,2,89,0.71,One year,Credit card,1,0.5257,1
+CUS00990,45,Female,West,Premium,58,78.5,3929.13,28,10,5,4,36,0.43,Month-to-month,Bank transfer,2,0.5208,1
+CUS00991,52,Male,South,Standard,60,33.32,2006.86,51,13,8,0,4,0.21,Two year,Bank transfer,0,0.0211,0
+CUS00992,27,Female,South,Standard,67,30.39,2026.67,23,8,1,1,75,0.03,Month-to-month,PayPal,0,0.407,0
+CUS00993,51,Male,South,Premium,6,63.23,376.54,21,2,0,3,46,0.97,One year,Check,2,0.5677,1
+CUS00994,29,Non-binary,South,Basic,3,23.48,67.31,22,8,6,10,54,0.6,Two year,Credit card,1,0.6295,1
+CUS00995,29,Non-binary,North,Standard,26,54.11,1366.61,10,14,7,3,55,0.89,Two year,Bank transfer,0,0.3828,0
+CUS00996,37,Male,West,Basic,5,15.86,68.99,21,11,0,0,14,0.05,Two year,Check,0,0.2834,0
+CUS00997,38,Male,North,Standard,31,58.24,1792.77,48,12,4,8,0,0.32,Month-to-month,PayPal,1,0.5908,1
+CUS00998,54,Male,Central,Standard,64,41.85,2806.8,40,4,1,2,59,0.59,Month-to-month,Check,3,0.4943,0
+CUS00999,60,Non-binary,East,Basic,53,28.62,1436.45,60,1,7,6,73,0.27,Month-to-month,Bank transfer,2,0.4073,0
+CUS01000,54,Non-binary,Central,Premium,38,119.74,4273.53,0,2,4,1,55,0.85,Month-to-month,Credit card,1,0.9452,1
