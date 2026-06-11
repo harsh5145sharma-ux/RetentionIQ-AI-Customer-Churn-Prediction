@@ -1,8 +1,8 @@
 """
 ============================================================
-  CUSTOMER CHURN PREDICTION PROJECT
+   RETENTIONIQ AI CUSTOMER CHURN PREDICTION PROJECT
   Dataset : RetentionIQ Churn Dataset (1,000 customers)
-  Author  : [Your Name]
+  Author  : HARSH KUMAR SHARMA , PRIYA RANI
   Goal    : Predict which customers are likely to churn
             using machine learning, and extract actionable
             business insights.
